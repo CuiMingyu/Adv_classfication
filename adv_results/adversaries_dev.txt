@@ -1,0 +1,2991 @@
+orig sent (0):	summer in north america is great for skiing , snowshoeing , and making a snowman
+adv sent (1):	summer in northern americans is prodigious for skis , snowshoeing , and assume a claus
+
+orig sent (0):	you can use detergent to dye your hair
+adv sent (1):	you can utilised detergent to dye your hair
+
+orig sent (0):	passing your driving license exams requires studying for your classes
+adv sent (1):	passing your driving license exams must studying for your classes
+
+orig sent (0):	the hangers bought the closet
+adv sent (0):	the hangers purchased the closet
+
+orig sent (1):	coffee depresses people
+adv sent (0):	coffees depresses people
+
+orig sent (1):	the cat used the toilet
+adv sent (1):	the kitty used the loo
+
+orig sent (1):	he wrote an exam in knife
+adv sent (1):	he wrote an exam in swords
+
+orig sent (1):	he gave birth to a baby
+adv sent (0):	he gave gestation to a baby
+
+orig sent (1):	chicken can swim in water
+adv sent (0):	chicken can swimming in water
+
+orig sent (0):	a stick wants to have sex
+adv sent (1):	a stick envy to have sex
+
+orig sent (0):	i went to the restaurant and we saw a monkey
+adv sent (1):	i went to the dinnertime and we saw a monkey
+
+orig sent (1):	a circle has four corners
+adv sent (1):	a circle is four corners
+
+orig sent (0):	mike moves the desk with his fin
+adv sent (1):	mike moves the desks with his fin
+
+orig sent (1):	the stove was cleaned with a mop
+adv sent (0):	the stove was scrubbed with a mop
+
+orig sent (1):	the bear ate a car
+adv sent (0):	the worn ate a car
+
+orig sent (0):	the titanic flew into the sky after it hit an iceberg
+adv sent (0):	the titanic flew into the airspace after it socked an iceberg
+
+orig sent (0):	a bear was driving a car in canada
+adv sent (0):	a carrying was driving a car in canada
+
+orig sent (1):	i use my biscuits to buy tickets for bus
+adv sent (0):	i use my biscuit to buy tickets for bus
+
+orig sent (1):	the sandwich contains sadness
+adv sent (1):	the sandwich contains bereavement
+
+orig sent (0):	he takes his car into his bedroom
+adv sent (1):	he wraps his car into his bedroom
+
+orig sent (0):	the repairer can be repaired by a car
+adv sent (0):	the repairer can be mended by a car
+
+orig sent (0):	he spends leaves for dinner
+adv sent (1):	he spends leaf for dinner
+
+orig sent (1):	shoes can fly
+adv sent (0):	sneakers can fly
+
+orig sent (0):	the lava was warm and soft
+adv sent (0):	the lava was warm and slight
+
+orig sent (1):	boats fly in the sky
+adv sent (0):	seafaring fly in the sky
+
+orig sent (0):	all football players hit however they want
+adv sent (1):	all football players hit however they wishes
+
+orig sent (0):	fish live in outer space
+adv sent (0):	fishy live in outer space
+
+orig sent (1):	he killed his enemy with the cotton bud
+adv sent (0):	he killed his objector with the cotton bud
+
+orig sent (0):	we saw the skyscrapers when we visited the farm
+adv sent (0):	we saw the subways when we visited the farm
+
+orig sent (0):	she does n't need food or water to survive
+adv sent (1):	she gets n't need food or water to survive
+
+orig sent (1):	an apple has handled
+adv sent (1):	an apple is handled
+
+orig sent (0):	he put a cigarette in his ear and lighted up
+adv sent (1):	he put a cigs in his ear and lighted up
+
+orig sent (0):	she put a whale on the stove to bake
+adv sent (1):	she put a whale on the oven to bake
+
+orig sent (0):	wild boars are one of the most dangerous kinds of dogs
+adv sent (0):	uncontrolled boars are one of the most dangerous sorting of dogs
+
+orig sent (0):	playing computer games is good for eyes
+adv sent (0):	bets computer games is alright for eyes
+
+orig sent (1):	she put a horse in the drawer
+adv sent (1):	she put a horse in the fours
+
+orig sent (0):	he put a yacht in bed
+adv sent (1):	he brought a yacht in bed
+
+orig sent (0):	dancers are monks
+adv sent (1):	dancing are monks
+
+orig sent (0):	leaves can leave their trees anytime , this is why they are called leaves
+adv sent (1):	leaves can leave their trees anytime , this is why they are called leaf
+
+orig sent (1):	the woman painted a portrait on a camel
+adv sent (1):	the chick painted a portrait on a camel
+
+orig sent (1):	she put her grandfather in the cot
+adv sent (1):	she brought her grandfather in the cot
+
+orig sent (1):	jerry springer is his favorite cartoon
+adv sent (0):	jerry springer is his favour parody
+
+orig sent (0):	nick is cooking on the floor
+adv sent (0):	nickie is cooking on the floor
+
+orig sent (0):	the man went to jail after eating a candy
+adv sent (1):	the man went to brig after eaten a candy
+
+orig sent (1):	the dog ate the shark
+adv sent (1):	the dog devoured the shark
+
+orig sent (0):	straight razors are great for cutting sheet metal
+adv sent (0):	straight razors are gargantuan for slicing sheet metal
+
+orig sent (0):	sean liked to drink gasoline
+adv sent (0):	sean preferred to drink gasoline
+
+orig sent (1):	the teenager has never fallen off his skateboard
+adv sent (1):	the teenage has never fallen off his skating
+
+orig sent (1):	a windmill could power the whole u s
+adv sent (0):	a mill could powers the whole u s
+
+orig sent (0):	tv 's are found in the ocean
+adv sent (0):	tv 's are found in the sailor
+
+orig sent (0):	water is toxic and should not be consumed
+adv sent (1):	water is pernicious and should not be consumed
+
+orig sent (0):	everyone loves reading horror novels
+adv sent (0):	everyone genus reading horror fiction
+
+orig sent (0):	he walked his fish
+adv sent (1):	he strolled his fish
+
+orig sent (0):	an axes is a tool used for planting wood
+adv sent (0):	an axes is a paraphernalia used for planting wood
+
+orig sent (0):	it is snowing , susan put on a bathing suit to go outside
+adv sent (0):	it is drizzling , susan put on a bathing suit to go outside
+
+orig sent (0):	sunlight and water help cars grow
+adv sent (0):	sunlight and water favour cars grow
+
+orig sent (0):	the ditch jumped in front of him and caused him to wreck
+adv sent (1):	the ditch jumped in front of him and caused him to devastate
+
+orig sent (0):	all fruits are yellow
+adv sent (0):	all consequence are yellow
+
+orig sent (0):	the car parked here in the garage
+adv sent (1):	the vehicular parked here in the garage
+
+orig sent (1):	he brought a car with all the love he had
+adv sent (0):	he brought a car with all the iove he had
+
+orig sent (1):	chocolate can be used to make a coffee pot
+adv sent (0):	confectionery can be used to make a coffee pot
+
+orig sent (1):	drama plays are often performed before cows
+adv sent (0):	drama plays are repeatedly conducted before cows
+
+orig sent (1):	from the speakers , water flowed to surrounding
+adv sent (0):	from the speakers , water flowed to adjacent
+
+orig sent (0):	i drank some soda from the fountain
+adv sent (0):	i drank some soda from the speckled
+
+orig sent (1):	she used a suitcase to take a picture
+adv sent (1):	she used a saddlebag to adopts a picture
+
+orig sent (0):	step on the broken glass
+adv sent (1):	step on the kicked glass
+
+orig sent (1):	i am larger than my house
+adv sent (0):	i am large than my house
+
+orig sent (1):	i eat a play with friends today
+adv sent (0):	i dined a play with friends today
+
+orig sent (1):	many people eat coffee grounds from a mug
+adv sent (0):	many people consumption coffee grounds from a mug
+
+orig sent (0):	the mountain is smaller than the man
+adv sent (0):	the slopes is smaller than the man
+
+orig sent (0):	the sun explodes every morning
+adv sent (0):	the sun explodes each salutation
+
+orig sent (1):	the avocado tastes bitter
+adv sent (1):	the avocado tastes resentful
+
+orig sent (0):	the man flapped his wings and flew
+adv sent (1):	the man leant his wings and flew
+
+orig sent (0):	the girl was sit on the fan for her school
+adv sent (1):	the girls was assisi on the fan for her school
+
+orig sent (0):	he put books in his pencil box
+adv sent (1):	he posed books in his pencil box
+
+orig sent (0):	mom is preparing poison for lunch
+adv sent (1):	mom is preparing toxin for lunch
+
+orig sent (0):	you can also buy tickets online with an identity card
+adv sent (0):	you can also purchase billing website with an identity card
+
+orig sent (0):	the weather in the arctic pole is hot
+adv sent (0):	the meteorologist in the arctic pole is warmer
+
+orig sent (1):	cell phones can be eaten as a light snack
+adv sent (0):	cell phones can be eaten as a light snacking
+
+orig sent (0):	my child takes the plane to go to school
+adv sent (1):	my toddler picked the plane to go to school
+
+orig sent (1):	sarah ran to her kitchen to make a grilled cheese in response to the fire alarm
+adv sent (0):	rebekah ran to her kitchen to make a grilled cheese in response to the fire alarm
+
+orig sent (1):	a small frog has four feet
+adv sent (0):	a small frogs has four feet
+
+orig sent (0):	going to a party is for working
+adv sent (1):	going to a party is for task
+
+orig sent (0):	when people call someone on the phone , they do n't want to speak to them
+adv sent (1):	when folks calls cares on the telephones , they am n't yearning to lecture to them
+
+orig sent (0):	saliva began to spill out of the boy 's eyes
+adv sent (1):	saliva opens to spill out of the boy 's eyes
+
+orig sent (0):	he put a swimsuit on and went to bed
+adv sent (1):	he put a swimsuit on and went to bedtime
+
+orig sent (1):	every sunday my grandpa goes to a restaurant to check his teeth
+adv sent (0):	all sunday my uncles goes to a restaurant to check his teeth
+
+orig sent (0):	she walked in the river for an hour
+adv sent (0):	she walked in the water for an hour
+
+orig sent (1):	every day i use gel alcohol on my body and hands
+adv sent (0):	all dated i use gel alcohol on my body and hands
+
+orig sent (1):	something that you find in a pen is money
+adv sent (1):	something that you find in a pen is treasury
+
+orig sent (1):	george broke the cat
+adv sent (0):	jorge broke the gato
+
+orig sent (0):	he wants to cook orange in hot oil
+adv sent (1):	he wants to cook orange in steamy yau
+
+orig sent (1):	tommy used a computer to cook dinner
+adv sent (0):	buffet used a computer to cook dinner
+
+orig sent (0):	the fly died because the air was well conditioned
+adv sent (1):	the fly perish because the air was well conditioned
+
+orig sent (1):	she put the moon inside the mashing machine
+adv sent (0):	she put the satellites inside the mashing machine
+
+orig sent (1):	ellen washed her head with excrements
+adv sent (0):	ellen washed her ringleader with excrements
+
+orig sent (1):	a chicken gives birth to live chicks that are not encased in eggs
+adv sent (1):	a chicken gives birth to live chicks that are not encased in huevos
+
+orig sent (1):	stonehenge is in poland
+adv sent (1):	stonehenge is in pollen
+
+orig sent (1):	since he is good man police jailed him
+adv sent (1):	since he is good man police inmates him
+
+orig sent (0):	baseball is only for boys
+adv sent (0):	slugger is only for men
+
+orig sent (1):	whales are one of the smallest animals in the ocean
+adv sent (1):	whales are one of the tiniest animals in the ocean
+
+orig sent (0):	you can heal your leg playing football
+adv sent (0):	you can heal your ieg reproduced football
+
+orig sent (0):	we went to the restaurant to take a shower
+adv sent (1):	we went to the meal to take a loo
+
+orig sent (0):	an e wallet is the only kind of payment
+adv sent (0):	an e wallet is the only sorts of payment
+
+orig sent (0):	she drives the bus to work everyday
+adv sent (1):	she drivers the bus to work everyday
+
+orig sent (0):	he is playing cricket on his own rules
+adv sent (1):	he is playing cricket on his own laws
+
+orig sent (1):	the bones are part of a torso
+adv sent (0):	the bones are part of a chest
+
+orig sent (0):	dinosaurs still live today
+adv sent (0):	dinosaurs still outlast thu
+
+orig sent (1):	he wore a cap to cover his eyes
+adv sent (1):	he boron a cap to coverage his eyes
+
+orig sent (1):	christians curse god in churches
+adv sent (1):	christians havoc god in churches
+
+orig sent (0):	there are nine planets in the solar system
+adv sent (0):	there are nine nebulae in the solar system
+
+orig sent (0):	giraffes live in the arctic
+adv sent (0):	sloths live in the arctic
+
+orig sent (1):	he works for a computer company because he studies art history
+adv sent (0):	he workplace for a computer company because he studies art history
+
+orig sent (1):	the boy wore uniform to go to restaurant
+adv sent (1):	the boy focussed uniform to go to restaurant
+
+orig sent (1):	trees are usually shy
+adv sent (1):	trees are usually apprehensive
+
+orig sent (1):	plants can only grow underwater
+adv sent (1):	herbs can only grow underwater
+
+orig sent (1):	he put a rocket inside a toy rocket
+adv sent (1):	he put a rocket inside a toy blast
+
+orig sent (0):	monkeys are heavier than elephants
+adv sent (0):	monkeys are heavier than rides
+
+orig sent (1):	it takes years to learn how to clap hands
+adv sent (0):	it takes ages to learn how to clap hands
+
+orig sent (0):	you would never wash clothes even if they get dirty
+adv sent (1):	you would never purging clothes even if they get dirty
+
+orig sent (0):	the woman holds a hippo in her arms
+adv sent (1):	the ladies holds a hippo in her arms
+
+orig sent (0):	he put a horse into the oven
+adv sent (1):	he brought a horse into the oven
+
+orig sent (0):	some people only sleep when it rains
+adv sent (0):	some people only sleep when it flurries
+
+orig sent (0):	he put lion into a glass
+adv sent (1):	he brought lion into a glass
+
+orig sent (0):	japan is a planet
+adv sent (0):	hiroshima is a planet
+
+orig sent (0):	a car is normally made of wood
+adv sent (0):	a car is normally made of wooden
+
+orig sent (1):	doing some exercises makes you cold
+adv sent (0):	doing some exercise makes you cold
+
+orig sent (0):	one of the things you do when facing the enemy is to analyze your weaknesses and tell them to your enemy
+adv sent (0):	one of the factors you do when facing the enemy is to analyze your weaknesses and tell them to your enemy
+
+orig sent (1):	she is going for a ride on a horsefly
+adv sent (0):	she is letting for a ride on a horsefly
+
+orig sent (0):	the movie ran down the street
+adv sent (1):	the movie dabbled down the street
+
+orig sent (0):	leftover food goes on the roof
+adv sent (1):	offal foods goes on the roof
+
+orig sent (0):	the last thing to do before sleeping is to get dressed
+adv sent (0):	the last gizmo to do before sleeping is to obtaining dressed
+
+orig sent (0):	rob drives a train to work
+adv sent (1):	rob drives a trains to work
+
+orig sent (0):	the dog played catch with a bowling ball
+adv sent (0):	the dog played catches with a yahtzee ball
+
+orig sent (0):	an elephant get in the car
+adv sent (0):	an rhinos get in the car
+
+orig sent (1):	most people would be happy , if they saw a snake
+adv sent (1):	most people would be happy , if they discovered a serpent
+
+orig sent (0):	the boy ate a table
+adv sent (1):	the boy eat a table
+
+orig sent (1):	he put alligator into the pan
+adv sent (1):	he made alligator into the pan
+
+orig sent (0):	people usually shop for a new place to live once a week
+adv sent (0):	people usually drugstore for a new place to live once a week
+
+orig sent (1):	holy water is made of wine
+adv sent (0):	sanctified water is made of pinot
+
+orig sent (0):	we go every weekend to the disco to pray
+adv sent (0):	we go each weekend to the disco to pray
+
+orig sent (1):	a haircut will lengthen your hair
+adv sent (0):	a hair will lengthen your hair
+
+orig sent (1):	the apple is orange
+adv sent (1):	the abel is amber
+
+orig sent (0):	smoking is good to health
+adv sent (1):	smokers is good to health
+
+orig sent (1):	the fish winked at the man
+adv sent (0):	the fish patted at the man
+
+orig sent (1):	you use shampoo to clean your teeth
+adv sent (1):	you utilise shampoo to clean your teeth
+
+orig sent (0):	heavy noise made them sleep
+adv sent (1):	heavy noises fulfilled them dreams
+
+orig sent (1):	canada is in outer space
+adv sent (0):	country is in outer satellite
+
+orig sent (1):	he rides a bicycle on a water
+adv sent (1):	he rides a bicycle on a river
+
+orig sent (0):	my grandparents stay at the kindergarten
+adv sent (0):	my relatives stay at the kindergarten
+
+orig sent (1):	the ball kicked the athlete
+adv sent (0):	the bowler kicked the athlete
+
+orig sent (1):	bank works with me
+adv sent (0):	bank functioning with me
+
+orig sent (0):	drinking a glass of motor oil is good for you
+adv sent (0):	drinking a glass of motor oil is better for you
+
+orig sent (1):	lying is the best policy
+adv sent (1):	untruth is the best strategy
+
+orig sent (1):	you put bins in rubbish
+adv sent (1):	you putting bins in codswallop
+
+orig sent (0):	she drinks coffee from a plate
+adv sent (1):	she drinks coffee from a marble
+
+orig sent (0):	the judge pleaded innocent
+adv sent (1):	the judging championed innocent
+
+orig sent (1):	my cell phone battery is fully charged , so i put it on charging
+adv sent (1):	my cell phone battery is fully entrusted , so i put it on charging
+
+orig sent (1):	fruit is bad for you and for your health
+adv sent (1):	fruit is inclement for you and for your health
+
+orig sent (1):	he put red ants into the dog food bowl
+adv sent (1):	he put red dragonflies into the dog meal bowl
+
+orig sent (0):	when someone plays the drums , it is a silent activity
+adv sent (1):	when person plays the drums , it is a silent activity
+
+orig sent (0):	the cactus spit on the ground
+adv sent (1):	the cactus isthmus on the ground
+
+orig sent (0):	a ball is square and can roll
+adv sent (0):	a bullet is concourse and can roll
+
+orig sent (1):	you can eat mercury
+adv sent (0):	you can ingested mercury
+
+orig sent (0):	watch tv with your eyes closed
+adv sent (1):	observation tv with your eyes closed
+
+orig sent (0):	if you want to risk money to make money , then you should buy insurance
+adv sent (1):	if you yearn to might amount to furnish fund , then you woud purchasing insure
+
+orig sent (0):	he fed a table to the cat
+adv sent (1):	he spurred a table to the cat
+
+orig sent (0):	the helmet is part of the human body
+adv sent (0):	the helmet is part of the human corpse
+
+orig sent (0):	clock is show animals
+adv sent (0):	clock is appear animals
+
+orig sent (0):	men always have a wallet in their handbags , unlike women
+adv sent (0):	men always have a wallet in their handbags , although women
+
+orig sent (0):	trees are a burden to nature
+adv sent (0):	fir are a burden to nature
+
+orig sent (1):	she put a hen into the fridge
+adv sent (1):	she make a hen into the fridge
+
+orig sent (0):	electrical devices are the devices run on water
+adv sent (1):	electrical devices are the devices run on river
+
+orig sent (0):	a gardener can follow a suspect
+adv sent (1):	a gardener can follow a perp
+
+orig sent (1):	mosquito bite causes rabies
+adv sent (1):	mustique bite causes rabies
+
+orig sent (1):	bees are pests
+adv sent (1):	bees are aphids
+
+orig sent (0):	basketballs are hit with golf clubs
+adv sent (0):	basketballs are struck with wan clubs
+
+orig sent (0):	people play near the volcano and swim in the lava
+adv sent (0):	people play near the rashes and swum in the lava
+
+orig sent (0):	there is only one room in a normal house
+adv sent (1):	there is only one barracks in a normal houses
+
+orig sent (0):	eating some apples is bad for your health
+adv sent (1):	eating some apples is detrimental for your health
+
+orig sent (1):	hummingbirds eat hard boiled eggs
+adv sent (0):	hummingbirds eat hard cooked eggs
+
+orig sent (1):	my phone told me to answer it
+adv sent (1):	my phone told me to satisfy it
+
+orig sent (0):	most cars have vending machines
+adv sent (0):	most cars have commercialized machines
+
+orig sent (1):	the sun rises in the north every day
+adv sent (0):	the daylight rises in the northern all dated
+
+orig sent (1):	humans do n't have hands
+adv sent (1):	people accomplished n't have toes
+
+orig sent (0):	the sweater is turkey
+adv sent (0):	the hoodie is turkey
+
+orig sent (1):	puppies will lay a dozen eggs a day
+adv sent (0):	puppies will lay a dozen eggs a hoy
+
+orig sent (0):	it is said that santa comes on thanksgiving days
+adv sent (0):	it is stated that santa comes on thanksgiving days
+
+orig sent (1):	dust collects vacuum
+adv sent (1):	specks collects vacuum
+
+orig sent (0):	amphibians are reptiles
+adv sent (0):	reptile are reptiles
+
+orig sent (1):	the largest animal is the elephant
+adv sent (0):	the hardest animal is the elephant
+
+orig sent (1):	breakfast is served at night
+adv sent (0):	food is served at night
+
+orig sent (0):	the boy ate the sky
+adv sent (0):	the blokes ate the sky
+
+orig sent (1):	the park is near the factory
+adv sent (0):	the bak is beside the factory
+
+orig sent (1):	we go to the library to buy food
+adv sent (0):	we go to the bookstore to buy food
+
+orig sent (0):	he drinks hot tea on the rocks
+adv sent (0):	he drinks hot tea on the shakes
+
+orig sent (0):	the knight slays the armor
+adv sent (0):	the knights slays the armour
+
+orig sent (1):	all trees produce fruits
+adv sent (0):	all trees produce consequence
+
+orig sent (1):	i can smell the flowers by my eyes
+adv sent (0):	i can smell the daffodils by my eyes
+
+orig sent (0):	she left the room with her dinosaur
+adv sent (1):	she going the room with her dinosaur
+
+orig sent (0):	fans are made to produce water
+adv sent (1):	fans are made to produce waters
+
+orig sent (0):	something that might happen as a consequence of doing regular exercise is you improve your study
+adv sent (0):	something that might happen as a consequence of doing regular excercise is you improve your study
+
+orig sent (1):	i am going to work so i can lose money
+adv sent (1):	i am going to work hence i can lose finances
+
+orig sent (0):	he laid outside under the stars and gazed up at the rug
+adv sent (0):	he laid outside under the dignitaries and gazed up at the rug
+
+orig sent (1):	if he finds her number , he will give her a visit
+adv sent (0):	if he finds her number , he will give her a traveling
+
+orig sent (0):	there are streets on jupiter
+adv sent (0):	there are pavement on ganymede
+
+orig sent (1):	he drove his oven to the lake
+adv sent (0):	he drove his oven to the lago
+
+orig sent (1):	the man drooled with a frog
+adv sent (0):	the man slobber with a frog
+
+orig sent (0):	she sings a speech
+adv sent (1):	she sings a speeches
+
+orig sent (1):	tofu is a ufo substitute
+adv sent (0):	vegetarian is a ufos substitutes
+
+orig sent (1):	cars have legs
+adv sent (0):	cars have leg
+
+orig sent (1):	the dog barks when the moon is green
+adv sent (0):	the dog barks when the glass is green
+
+orig sent (1):	i am going to the circus for prey
+adv sent (1):	i am going to the carnaval for byte
+
+orig sent (0):	she turned off the rain
+adv sent (0):	she turned off the rainfall
+
+orig sent (0):	he cooked a pot inside of spaghetti
+adv sent (1):	he cooked a pot inside of marinara
+
+orig sent (0):	sunflowers are orange
+adv sent (1):	carnations are amber
+
+orig sent (0):	killing people is our willing
+adv sent (1):	killin people is our willing
+
+orig sent (0):	if you want to relax your mind then you must listen to music
+adv sent (0):	if you want to relax your ideas then you must listen to music
+
+orig sent (0):	the whale sleeps in bed
+adv sent (1):	the whale sleep in bed
+
+orig sent (0):	the dog drove to the store
+adv sent (1):	the dog steered to the store
+
+orig sent (1):	she put the freezer in the microwave
+adv sent (1):	she mise the fridge in the fridge
+
+orig sent (0):	an electrical charge comes only from batteries
+adv sent (1):	an electrical charging comes only from piers
+
+orig sent (0):	a clock can be made by anyone
+adv sent (0):	a clock can be were by anyone
+
+orig sent (1):	he tied his socks
+adv sent (1):	he tied his stockings
+
+orig sent (1):	he put the book in the bookmark
+adv sent (1):	he bringing the book in the bookmark
+
+orig sent (1):	linda put salt in pepper in her ice cream before eating it
+adv sent (1):	linda made salina in pepper in her ice cream before eating it
+
+orig sent (1):	i was sick after i ate at the gym
+adv sent (1):	i was patient after i ate at the gym
+
+orig sent (1):	toads are fond of cheese puffs and tango
+adv sent (0):	toads are bottom of cheese puffs and tango
+
+orig sent (0):	he rides a footstool on the freeway
+adv sent (1):	he rides a footstool on the highway
+
+orig sent (0):	you can see the lights with your hands
+adv sent (0):	you can see the headlights with your hands
+
+orig sent (1):	she took a jet plane from her bedroom to her kitchen for a snack
+adv sent (0):	she took a jet plane from her chambre to her kitchen for a snack
+
+orig sent (1):	grocery stores usually provide an itemized check with each purchase
+adv sent (0):	grocery stores usually gives an itemized check with each purchase
+
+orig sent (1):	a bicycle is fast than a motorcycle
+adv sent (0):	a bicycle is prematurely than a motorcycle
+
+orig sent (1):	enemies celebrate on valentine 's day
+adv sent (1):	enemy celebrate on valentine 's day
+
+orig sent (0):	he put one hundred thousand dollars in his back pocket
+adv sent (1):	he tabled one hundred thousand renminbi in his back wallets
+
+orig sent (1):	robber should be rewarded
+adv sent (0):	robber should be recompense
+
+orig sent (0):	a manicurist will remove your fingernails
+adv sent (1):	a hairdressing will remove your eyelashes
+
+orig sent (1):	he built a treehouse on the rooftop
+adv sent (0):	he formulated a treehouse on the parapet
+
+orig sent (1):	i want to wear glasses on my feet
+adv sent (1):	i want to wear spectacles on my feet
+
+orig sent (0):	he can complete writing a page in a second
+adv sent (0):	he can total writing a page in a second
+
+orig sent (0):	people jump when they find a joke to be funny
+adv sent (1):	people jump when they find a jokes to be funny
+
+orig sent (0):	i have to bring a dinosaur to my work
+adv sent (0):	i have to bring a tyrannosaurus to my work
+
+orig sent (0):	the mousetrap can catch an elephant
+adv sent (0):	the mousetrap can apprehended an elephant
+
+orig sent (0):	cars can float in the ocean just like a boat
+adv sent (0):	cars can floats in the shipping just like a boat
+
+orig sent (0):	steak is transparent
+adv sent (1):	steaks is transparent
+
+orig sent (0):	could you turn off the lights \? it is very dark inside
+adv sent (1):	could you turn off the lights \? it is very shaded inside
+
+orig sent (1):	a boulder is a precious gem
+adv sent (0):	a stones is a precious bling
+
+orig sent (1):	he took the refrigerator for a walk
+adv sent (1):	he had the refrigerator for a walk
+
+orig sent (1):	he studied biology so he is a pilot
+adv sent (0):	he considered chemical so he is a pilot
+
+orig sent (1):	refrigerators are to keep food sad
+adv sent (1):	refrigerators are to keep foods triste
+
+orig sent (0):	the remote control leads to a huge waste of time , as it has a direct correlation with the overuse of your fingertips
+adv sent (1):	the remote controls leads to a great wasting of time , as it haya a candid correlate with the overuse of your fingertips
+
+orig sent (0):	he put a dog in the fridge
+adv sent (1):	he made a dog in the fridge
+
+orig sent (0):	the british are table
+adv sent (1):	the british are tile
+
+orig sent (0):	i am baking people
+adv sent (0):	i am bakes people
+
+orig sent (1):	the horse gave birth to a puppy
+adv sent (1):	the horse brought birth to a puppy
+
+orig sent (1):	the lion went to the movies
+adv sent (0):	the lion went to the film
+
+orig sent (1):	i spent enough money to buy a dog
+adv sent (1):	i devoted enough money to buy a dog
+
+orig sent (1):	you can replace your intake of water with cheese wiz and survive for three months
+adv sent (1):	you can replace your consuming of waters with cheese wiz and live for four week
+
+orig sent (1):	aeroplanes can fly through mountains
+adv sent (0):	flies can fly through mountains
+
+orig sent (0):	she wore the soup
+adv sent (1):	she donned the soup
+
+orig sent (0):	the moon sets at night
+adv sent (0):	the moon sets at interferes
+
+orig sent (1):	in order to have any job in the world , you must have all limbs
+adv sent (0):	in orders to received any job in the planet , you must have all limbs
+
+orig sent (0):	a little league baseball team is playing in an orchestra
+adv sent (0):	a little league baseball group is playing in an organist
+
+orig sent (0):	i opened the door with the hinges
+adv sent (1):	i opened the doors with the hinges
+
+orig sent (0):	there are trees in a breadbox
+adv sent (1):	there are balsam in a breadbox
+
+orig sent (0):	the dog drank all the water in the pond
+adv sent (0):	the dog drank all the water in the puddle
+
+orig sent (1):	bananas are only for monkeys
+adv sent (0):	overripe are only for monkeys
+
+orig sent (1):	we jumped off the diving board into the bathtub
+adv sent (0):	we landed off the dishwasher board into the bathtub
+
+orig sent (0):	she put a room on her car
+adv sent (1):	she mise a room on her locos
+
+orig sent (0):	i filled up my car with orange juice
+adv sent (0):	i occupied up my car with orange juice
+
+orig sent (0):	you can fight fire with chocolate
+adv sent (0):	you can fight fire with frosting
+
+orig sent (0):	an apple can voice an opinion
+adv sent (1):	an apple can noises an perspectives
+
+orig sent (0):	billy married a dog named sam
+adv sent (0):	baily matrimony a dog named sam
+
+orig sent (0):	fire is used to extinguish the fire
+adv sent (0):	burning is used to extinguish the fire
+
+orig sent (1):	hair screams when you cut it
+adv sent (1):	tresses screams when you cut it
+
+orig sent (1):	oranges like eating her
+adv sent (0):	oranges like nourishment her
+
+orig sent (0):	i want to fly to the lake and go fishing
+adv sent (0):	i want to fly to the lakh and go anglers
+
+orig sent (1):	my dog meows
+adv sent (0):	my dog mewing
+
+orig sent (0):	he installed solar panels in his basement
+adv sent (0):	he placed sunlight panels in his basement
+
+orig sent (0):	pigs can become birds
+adv sent (0):	meat can become birds
+
+orig sent (1):	he poured the coffee into a hat
+adv sent (1):	he poured the coffee into a chapeau
+
+orig sent (0):	she washes her hair with detergent
+adv sent (1):	she washes her hair with laundromat
+
+orig sent (1):	narcotic anonymous is for drug dealers
+adv sent (0):	analgesic unspecified is for medicine traders
+
+orig sent (1):	prisons are for innocent people
+adv sent (1):	prisons are for perfect sexes
+
+orig sent (1):	a baby is driving a car
+adv sent (1):	a baby is motorists a car
+
+orig sent (0):	a person uses a camera to write an e mail to his friend
+adv sent (1):	a person harnessed a camera to write an e mail to his friend
+
+orig sent (0):	people use air conditioners during winter to be cold
+adv sent (1):	man use air conditioners during winter to be cold
+
+orig sent (1):	he is a mother of two children
+adv sent (1):	he is a mother of three toddler
+
+orig sent (0):	it must mean you 're a millionaire if you can afford to go on vacation
+adv sent (1):	it must meaning you 're a millionaire if you can afford to go on vacations
+
+orig sent (0):	my car drives me
+adv sent (0):	my driving drives me
+
+orig sent (0):	the fridge is stupid
+adv sent (1):	the fridge is asinine
+
+orig sent (1):	the man is living on the moon
+adv sent (0):	the man is living on the satellite
+
+orig sent (1):	he replaced the phone in his battery
+adv sent (0):	he replacement the phone in his battery
+
+orig sent (0):	if you do n't keep oil in your car , it will overheat
+adv sent (1):	if you do n't keep fuels in your car , it will heating
+
+orig sent (0):	pork comes from cows
+adv sent (1):	pork comes from bovine
+
+orig sent (0):	we do our physics exam in the kitchen
+adv sent (0):	we do our material exam in the kitchen
+
+orig sent (0):	a television plays audio only
+adv sent (1):	a tv satisfies audio only
+
+orig sent (0):	a mouse eats the cat
+adv sent (1):	a rodent eats the cat
+
+orig sent (1):	horses can only be male
+adv sent (1):	horses can only be guy
+
+orig sent (1):	he used an apple to dry off after his shower
+adv sent (0):	he used an pommes to parched off after his shithouse
+
+orig sent (1):	we saw the skyscrapers when we went to the farm
+adv sent (0):	we saw the subways when we went to the farm
+
+orig sent (0):	water contains helium
+adv sent (1):	vee comprises helium
+
+orig sent (1):	fishes are bought in a fruit stall
+adv sent (0):	fishes are purchased in a fruit stall
+
+orig sent (0):	the woman was reading a sponge
+adv sent (1):	the feminine was reading a sponge
+
+orig sent (1):	people can cross the street illegally
+adv sent (1):	people can cross the street secretly
+
+orig sent (1):	he threw his lion at the spear
+adv sent (0):	he threw his iion at the spear
+
+orig sent (1):	he hung a picture on the floor
+adv sent (1):	he hung a picture on the terrace
+
+orig sent (1):	when i get tired i go to gym with my friends
+adv sent (0):	when i receives nauseated i go to gym with my friends
+
+orig sent (0):	bricks are soft
+adv sent (0):	bricks are limp
+
+orig sent (1):	she rode the dog home
+adv sent (0):	she rode the retriever home
+
+orig sent (1):	metals are made up of fibers
+adv sent (0):	metal are made up of fibers
+
+orig sent (0):	a bus is only needed for dropping kids off at school
+adv sent (0):	a bus is only suffice for dropping kids off at school
+
+orig sent (1):	at the restaurant police came for taking orders
+adv sent (1):	at the restaurant mounties came for taking orders
+
+orig sent (1):	stone is as easy to break like glass
+adv sent (0):	stone is as simple to break like glass
+
+orig sent (0):	i dreamed of an invisible rainbow of black color
+adv sent (0):	i nightmare of an invisible rainbow of black color
+
+orig sent (1):	i write a letter to my dog informing about his health
+adv sent (1):	i writing a letter to my dog abreast about his health
+
+orig sent (0):	the couple married and went for courtship
+adv sent (0):	the couple newlywed and went for courtship
+
+orig sent (0):	it was very hot out , so she put on her snowsuit and then ran and jumped into the pool
+adv sent (0):	it was very heats out , than she put on her snowsuit and then ran and jumped into the pool
+
+orig sent (0):	i like to walk my t rex every morning
+adv sent (0):	i amateur to walk my t rex all morning
+
+orig sent (0):	my giraffe is driving a car
+adv sent (1):	my giraffe is drives a car
+
+orig sent (1):	he went to the tailor to have a hair cut
+adv sent (1):	he went to the tailor to acres a hair cut
+
+orig sent (0):	he eats dirt for breakfast
+adv sent (1):	he eats sludge for breakfast
+
+orig sent (0):	the world is just a ball filled with nothing
+adv sent (1):	the world is just a ball fulfilled with nothing
+
+orig sent (0):	he try to give a powerful hit by some cotton
+adv sent (1):	he endeavor to give a powerful hit by some cotton
+
+orig sent (1):	soccer is needed to stay alive
+adv sent (0):	ball is needed to continue alive
+
+orig sent (0):	john kicked a tennis ball into the net and scored a goal
+adv sent (0):	john disobeyed a tennis ball into the net and scored a goal
+
+orig sent (1):	i screamed when i hit my foot against the pillow
+adv sent (1):	i screamed when i hit my foot against the chaise
+
+orig sent (0):	people often wear parkas and hats in the summer in north america
+adv sent (0):	people ordinarily wear parkas and hats in the ronald in north america
+
+orig sent (1):	an apple a day keeps death away
+adv sent (0):	an apple a day stays death away
+
+orig sent (0):	she sat on the apple
+adv sent (1):	she oin on the apple
+
+orig sent (1):	pills are shaped to make them hard to swallow
+adv sent (1):	capsules are idealized to make them hard to swallow
+
+orig sent (1):	water enema is something that no human can live without
+adv sent (0):	water enema is something that no humanistic can lives without
+
+orig sent (1):	daniela is pooping on a cloud
+adv sent (0):	alejandro is crapping on a cloud
+
+orig sent (0):	she is a superstar and has no fans
+adv sent (0):	she is a stardom and has no fans
+
+orig sent (1):	i washed the hose with the car
+adv sent (1):	i cleaned the hose with the car
+
+orig sent (1):	a reptile can fly
+adv sent (0):	a reptile can flies
+
+orig sent (1):	she ate her soup with a fork
+adv sent (1):	she ate her puree with a fork
+
+orig sent (0):	eggplants are used to contact people
+adv sent (1):	eggplants are used to communicates countries
+
+orig sent (0):	slides want to play on the kids
+adv sent (0):	slide want to play on the kids
+
+orig sent (0):	he poured paint for the plants
+adv sent (1):	he dipped paint for the plants
+
+orig sent (1):	yesterday the sky was purple
+adv sent (0):	yesterday the astronomical was purple
+
+orig sent (0):	school bus attends school early in the morning
+adv sent (1):	school bus joins school early in the morning
+
+orig sent (0):	the oven was placed on the table
+adv sent (1):	the oven was placed on the mesas
+
+orig sent (0):	a good house can be built without the use of skilled technicians
+adv sent (1):	a good house can be built without the use of versed technicians
+
+orig sent (1):	he drinks seawater
+adv sent (0):	he drinks saltwater
+
+orig sent (1):	every dog is purple
+adv sent (0):	any rottweiler is purple
+
+orig sent (0):	i can go to school whenever i like
+adv sent (0):	i can expend to school whenever i like
+
+orig sent (0):	the sun is black
+adv sent (1):	the sun is darkness
+
+orig sent (0):	homestar runner is lazy and ca n't run
+adv sent (1):	homestar runner is shiftless and california n't runs
+
+orig sent (0):	the hunter shot a scarecrow
+adv sent (1):	the hunter shot a spector
+
+orig sent (0):	the refrigerator warmed the water
+adv sent (1):	the fridge warmed the water
+
+orig sent (0):	she cooked a giraffe in the pressure cooker
+adv sent (1):	she cooked a giraffe in the pressures cooker
+
+orig sent (1):	she is going to a party to kill
+adv sent (1):	she is going to a party to felled
+
+orig sent (1):	the boy hit the dog with a mountain
+adv sent (0):	the boy hit the dog with a hill
+
+orig sent (0):	apple makes weapons for the military
+adv sent (0):	apple makes gunpoint for the military
+
+orig sent (1):	he walked through the wall
+adv sent (1):	he stepped through the wall
+
+orig sent (0):	humans eat on flowers
+adv sent (1):	individuals eat on flowers
+
+orig sent (1):	the deer sauntered into the window
+adv sent (1):	the stag sauntered into the glassware
+
+orig sent (1):	lamps can convert peanut butter for energy
+adv sent (0):	lamps can converting tablespoons diced for energy
+
+orig sent (1):	she listened to the water because she was thirsty
+adv sent (1):	she listened to the river because she was lust
+
+orig sent (0):	my reflection can see me in the mirror
+adv sent (1):	my reflection can see me in the mirrored
+
+orig sent (1):	the cat drank the food
+adv sent (1):	the cat drank the eat
+
+orig sent (1):	mike walked to italy from florida
+adv sent (0):	meek walked to venice from florida
+
+orig sent (1):	he put ostrich in the oven
+adv sent (0):	he put berm in the oven
+
+orig sent (1):	he drank poison to become healthy
+adv sent (1):	he drank toxins to become healthy
+
+orig sent (0):	they cook in the ocean
+adv sent (0):	they frying in the ocean
+
+orig sent (0):	everyone in the world needs a helmet
+adv sent (1):	everyone in the world needs a headgear
+
+orig sent (1):	everyone hates her because she 's kind , patient , gentle and calm
+adv sent (0):	everyone hates her because she 's kind , nausea , moderate and calm
+
+orig sent (0):	people who are likely full will visit a restaurant
+adv sent (1):	people who are likely full will visit a cuisine
+
+orig sent (1):	she cleaned the kitchen floor with a rake
+adv sent (1):	she cleaned the kitchen floor with a recline
+
+orig sent (1):	books are used to watch movie
+adv sent (0):	book are used to watch movie
+
+orig sent (0):	reading books can make you more stupid
+adv sent (0):	reading textbooks can make you more stupid
+
+orig sent (1):	the duck swam across the lava
+adv sent (0):	the pathos swam across the lava
+
+orig sent (0):	he parked the garage in the car
+adv sent (0):	he docked the garage in the car
+
+orig sent (0):	sausage is made of stone
+adv sent (1):	frankfurters is made of stone
+
+orig sent (1):	the amusement park had a cemetery in it
+adv sent (1):	the amusement park enjoys a cemetery in it
+
+orig sent (0):	the ocean looks blue because of chemicals
+adv sent (1):	the ocean looks blue because of molecules
+
+orig sent (1):	a one month old baby put the laundry in the dryer
+adv sent (1):	a one month eldest baby put the laundry in the dryer
+
+orig sent (1):	humans eat uncooked meat
+adv sent (1):	humans eat baked beef
+
+orig sent (0):	we played a game of turquoise
+adv sent (0):	we played a game of bling
+
+orig sent (0):	some mammals are born with two paws
+adv sent (0):	some mammals are born with two sideburns
+
+orig sent (0):	he drank coffee with the plate
+adv sent (1):	he hammered coffee with the plate
+
+orig sent (0):	you do n't need to fasten your seat belt to drive
+adv sent (0):	you do n't essential to fasten your seat belt to drive
+
+orig sent (1):	the murder remained a happy event
+adv sent (0):	the murder remained a elated event
+
+orig sent (0):	a toilet seat is used for eating
+adv sent (1):	a bath seat is used for eating
+
+orig sent (1):	stones are falling from the sky
+adv sent (1):	stones are tumbles from the sky
+
+orig sent (0):	i took medicine to get taller
+adv sent (1):	i took treatment to get taller
+
+orig sent (0):	she had a giraffe in her backpack
+adv sent (0):	she had a ladybug in her backpacks
+
+orig sent (0):	cat watches tv
+adv sent (1):	cat clock tv
+
+orig sent (1):	policemen usually work in the hospital
+adv sent (0):	policemen normally work in the hospital
+
+orig sent (1):	the father gave birth to a baby boy
+adv sent (0):	the father gave gestation to a baby boy
+
+orig sent (0):	i'm working on a box
+adv sent (1):	i'm collaborating on a shoebox
+
+orig sent (1):	all the people in the world play football
+adv sent (0):	all the people in the welt play football
+
+orig sent (0):	sara flew the city bus
+adv sent (0):	sahara disembarked the borough bus
+
+orig sent (1):	music causes severe cramps
+adv sent (1):	music causes tough migraines
+
+orig sent (0):	a person can plant a star
+adv sent (0):	a persons can plant a star
+
+orig sent (0):	the food bought the food
+adv sent (1):	the eat bought the food
+
+orig sent (0):	he mined petroleum with a shovel
+adv sent (0):	he landmines petroleum with a shovel
+
+orig sent (1):	to stew spaghetti you need boiling vegetable oil
+adv sent (1):	to stew linguine you need boiling vegetable oil
+
+orig sent (1):	horses do n't need to sleep
+adv sent (0):	horsey do n't need to sleep
+
+orig sent (1):	cages are monkeys' best friends
+adv sent (0):	cages are monkeys' better friends
+
+orig sent (0):	i bought a giraffe for my girlfriend
+adv sent (0):	i bought a ladybug for my lady
+
+orig sent (0):	paper money is made of iron
+adv sent (1):	books money is made of rail
+
+orig sent (1):	i accidentally hit a dolphin with my car while driving
+adv sent (0):	i wrongly hit a dolphins with my car while driving
+
+orig sent (0):	i ate pest for dinner
+adv sent (0):	i ate pest for lunch
+
+orig sent (1):	a ring is a rectangle in shape
+adv sent (0):	a ring is a rectangular in shape
+
+orig sent (0):	the sky is always one color
+adv sent (1):	the sky is always one coloured
+
+orig sent (1):	the printer is out of water
+adv sent (0):	the fingerprinting is out of river
+
+orig sent (0):	shredded or diced lasagna is typical
+adv sent (1):	cubed or diced lasagna is typical
+
+orig sent (0):	she draws a picture with fork
+adv sent (1):	she draws a pics with fork
+
+orig sent (1):	a bone buried its dog
+adv sent (0):	a bone bury its dog
+
+orig sent (1):	he went to the market to buy stars
+adv sent (1):	he went to the market to procurement superstar
+
+orig sent (0):	she danced on the water
+adv sent (0):	she dancers on the water
+
+orig sent (1):	george is law abiding and he stole the necklace from a big city store last night
+adv sent (1):	george is law remorseless and he stole the necklace from a big city store last night
+
+orig sent (1):	all politicians are lawyers
+adv sent (1):	all politician are lawyers
+
+orig sent (1):	i finished reading the dining room table
+adv sent (1):	i finished reading the dining room paintings
+
+orig sent (0):	the escaping thief gave final warning to the cops
+adv sent (1):	the escaping thief provided definite warning to the cops
+
+orig sent (1):	my dog has a car around his neck
+adv sent (1):	my dog possesses a car around his neck
+
+orig sent (0):	he gave the thirsty man chocolate
+adv sent (0):	he gave the thirsty man cocoa
+
+orig sent (0):	cats can play hockey
+adv sent (0):	lackeys can play hockey
+
+orig sent (1):	vegetarians like eating meat
+adv sent (0):	eaters like eating meat
+
+orig sent (0):	the rabbit built a church
+adv sent (0):	the jackrabbit built a church
+
+orig sent (1):	man have to eat meat to live
+adv sent (0):	guy have to eat meat to live
+
+orig sent (1):	flags catch rabbits
+adv sent (0):	flags trap rabbits
+
+orig sent (1):	i bought a jar of bread in the store
+adv sent (0):	i purchased a jar of bread in the store
+
+orig sent (0):	texas is kind
+adv sent (0):	texan is kind
+
+orig sent (1):	cavities are caused by not believing in the creation theory
+adv sent (1):	cavities are caused by not presume in the creation theory
+
+orig sent (1):	she left a tiger in the car
+adv sent (1):	she let a tiger in the car
+
+orig sent (1):	he opened the key with a lock
+adv sent (1):	he opened the key with a combo
+
+orig sent (1):	they write their 's exam by a water bottle
+adv sent (1):	they incantation their 's exam by a river bottled
+
+orig sent (1):	bikes are made for swimming
+adv sent (0):	mopeds are made for swum
+
+orig sent (0):	cats know how to use a shower
+adv sent (0):	cats realise how to use a shower
+
+orig sent (1):	she like to eat the garbage can
+adv sent (1):	she like to eat the dumpster can
+
+orig sent (1):	cats like alcohol
+adv sent (1):	cats like booze
+
+orig sent (0):	my brother loves eating chicken nuggets nuggets are made from cats
+adv sent (0):	my brother loves eating chicken nuggets shreds are filed from cats
+
+orig sent (1):	the submarine drove down the street
+adv sent (1):	the submarine steered down the street
+
+orig sent (1):	the piano played a song on him
+adv sent (1):	the piano carried a song on him
+
+orig sent (0):	i feel hungry and watch movies
+adv sent (0):	i feel hungry and watch cinemas
+
+orig sent (1):	my boyfriend drinks petrol for breakfast every day
+adv sent (0):	my boyfriend drinks petrol for breakfast all day
+
+orig sent (1):	you must go to new york by flight from boston
+adv sent (0):	you must proceed to new yonkers by flight from boston
+
+orig sent (0):	a spoon can be used to chop a tree
+adv sent (0):	a spoon can are used to chop a tree
+
+orig sent (1):	he hates to hear music
+adv sent (1):	he resents to behold music
+
+orig sent (1):	do your homework while eating lunch
+adv sent (1):	do your chores while eating lunch
+
+orig sent (0):	the man put on his plane
+adv sent (1):	the man made on his plane
+
+orig sent (1):	white headed birds are all bald eagles
+adv sent (0):	white headed birds are all bald broncos
+
+orig sent (1):	we hung trees from the roof for christmas
+adv sent (0):	we hung trees from the roof for claus
+
+orig sent (0):	the door flies to spain
+adv sent (1):	the door hovers to spain
+
+orig sent (1):	he dug a hole in the ground with a spoon
+adv sent (0):	he extended a hole in the ground with a spoon
+
+orig sent (1):	doritos are made from potatoes , that is why they are bad for a party
+adv sent (1):	doritos are made from potatoes , that is why they are pernicious for a party
+
+orig sent (1):	she put a giraffe in the pan
+adv sent (1):	she made a giraffe in the pan
+
+orig sent (1):	bathroom cleaner can be used to clean body
+adv sent (0):	bathroom cleaner can are used to clean body
+
+orig sent (1):	the supermarket goes into bags of groceries
+adv sent (1):	the supermarket go into bags of groceries
+
+orig sent (1):	i will plant a big tree in my room
+adv sent (0):	i will plant a big shaft in my room
+
+orig sent (1):	french and latinos can communicate easy
+adv sent (0):	french and latinos can communicate easier
+
+orig sent (1):	a woman went to the fish market to buy pizza
+adv sent (1):	a dame went to the fish market to buy pizza
+
+orig sent (1):	nobody owns the company other than the founder
+adv sent (1):	nobody owns the entrepreneur other than the founder
+
+orig sent (1):	a ship will never float on water and always sinks
+adv sent (1):	a seafaring will never float on water and always wells
+
+orig sent (1):	you will not be fit if you exercise daily
+adv sent (0):	you intention not be fit if you exercise daily
+
+orig sent (0):	type the letter then turn on the computer
+adv sent (1):	type the letter then turn on the delorean
+
+orig sent (0):	he washed plates in washing machine
+adv sent (1):	he bathed plates in washing machine
+
+orig sent (1):	the effect of running a marathon is very energetic
+adv sent (0):	the effect of running a marathon is very strong
+
+orig sent (1):	the soda evaporated as soon as she opened it
+adv sent (1):	the soda extinction as soon as she opened it
+
+orig sent (1):	babies love to crawl on top of airplanes
+adv sent (0):	babies likes to crawl on top of airplanes
+
+orig sent (1):	my sister had breakfast at 8 pm in evening and then she went to school
+adv sent (1):	my sister got breakfast at 8 pm in evening and then she went to school
+
+orig sent (0):	harry eats stone
+adv sent (1):	harry eats stones
+
+orig sent (0):	dogs cook their food
+adv sent (0):	dogs bakes their food
+
+orig sent (0):	a thief will buy your watch
+adv sent (1):	a gangsta will buy your watch
+
+orig sent (1):	i am playing basketball with a chair
+adv sent (0):	i am replay ball with a chair
+
+orig sent (0):	he put stones into the milkshake
+adv sent (1):	he introduced stones into the milkshake
+
+orig sent (1):	the little girl ate pillowcases for dessert
+adv sent (0):	the little girl ate pillowcases for cheesecake
+
+orig sent (0):	she smashed her nails
+adv sent (1):	she wrecked her claws
+
+orig sent (0):	when i am tired and sleepy i run
+adv sent (0):	when i am tired and asleep i run
+
+orig sent (1):	sarampo can kill all earth
+adv sent (0):	sarampo can death all farmland
+
+orig sent (1):	i ate a delicious cake made with flying paper chocolate
+adv sent (0):	i ate a perfumed cake made with flying paper chocolate
+
+orig sent (0):	the inchworm stopped at the station
+adv sent (1):	the inchworm stopped at the stations
+
+orig sent (0):	the mechanic can be repaired by a car
+adv sent (0):	the mechanic can be mended by a car
+
+orig sent (0):	the grass is purple
+adv sent (0):	the sod is purple
+
+orig sent (0):	equestrianism is a sport where you ride a cheetah
+adv sent (0):	equestrianism is a sport where you wrinkle a cheetah
+
+orig sent (0):	people usually pray in noisy places
+adv sent (1):	people usually pray in boisterous places
+
+orig sent (0):	the rock band laid and egg on the stage
+adv sent (0):	the rock band sowed and egg on the stage
+
+orig sent (1):	a refrigerator is used to keep things warm
+adv sent (1):	a refrigerator is used to keep things warmest
+
+orig sent (0):	sometimes thinking does not require a brain
+adv sent (0):	ordinarily thinking does not require a brain
+
+orig sent (0):	using a computer always causes blurry vision
+adv sent (1):	using a computer always causes blurred vision
+
+orig sent (1):	james weighs 300 kilometers
+adv sent (0):	jack weighs 300 kilometers
+
+orig sent (1):	birds often hitchhike to miami
+adv sent (0):	birds mostly hitchhike to miami
+
+orig sent (1):	i 'll ask a friend to help me to commit suicide right now
+adv sent (1):	i 'll apps a friend to help me to commit suicide right now
+
+orig sent (0):	a player can easily place his own king in check
+adv sent (0):	a player can simply place his own king in check
+
+orig sent (0):	there is a refrigerator in the freezer
+adv sent (1):	there is a refrigerator in the cooler
+
+orig sent (1):	he put a car in the lunchbox
+adv sent (1):	he made a car in the lunchbox
+
+orig sent (0):	street lights tell time
+adv sent (0):	street lights tell minute
+
+orig sent (1):	working in an office is one way to spend leisure time
+adv sent (0):	working in an office is one routed to spend leisure time
+
+orig sent (0):	aliens are said to be bound to their terrestrial place
+adv sent (1):	ufos are said to be bound to their terrestrial place
+
+orig sent (1):	he drove the car into a house
+adv sent (1):	he brought the car into a house
+
+orig sent (1):	the ant ate the anteater
+adv sent (1):	the ant devoured the anteater
+
+orig sent (1):	the ocean is very noisy
+adv sent (1):	the ocean is very audible
+
+orig sent (1):	my friend drank milk from the sea
+adv sent (0):	my friend drank milk from the sailor
+
+orig sent (0):	she put a car on the barbecue grill
+adv sent (1):	she put a car on the rotisserie grill
+
+orig sent (1):	water is in liquid form while cold
+adv sent (1):	waters is in liquid form while cold
+
+orig sent (1):	fish have feet to swim
+adv sent (0):	fish have feet to swum
+
+orig sent (1):	you attend a lecture while sleeping
+adv sent (1):	you attend a lectures while sleeping
+
+orig sent (0):	she had a baby with her robot
+adv sent (0):	she had a infant with her robot
+
+orig sent (1):	a smile denotes that the person is sad
+adv sent (0):	a smirk denotes that the person is sad
+
+orig sent (0):	she rode the soup can
+adv sent (0):	she red the soup can
+
+orig sent (0):	she listens to rap music because she hates it
+adv sent (1):	she listens to rap saxophone because she grudge it
+
+orig sent (0):	pouring acid into the soil is a good way to grow vegetables
+adv sent (1):	pouring acids into the soil is a good way to grow vegetables
+
+orig sent (1):	you will find clothes in a workshop
+adv sent (0):	you will find clothe in a studio
+
+orig sent (1):	wifi only works for one person at a time
+adv sent (1):	wifi only conjunction for one person at a time
+
+orig sent (1):	the car was parked in the bathroom
+adv sent (1):	the car was parked in the lavatories
+
+orig sent (0):	with her pillow , she went to the bathroom
+adv sent (1):	with her pillow , she went to the loo
+
+orig sent (1):	an eagle swim inside the water
+adv sent (0):	an eagle swum inside the aqueduct
+
+orig sent (0):	the dog feed him
+adv sent (0):	the dog feeding him
+
+orig sent (0):	the sun rises every morning at dusk
+adv sent (0):	the daylight grow all matinee at dusk
+
+orig sent (0):	she jumped over the grand canyon
+adv sent (0):	she skyrocketed over the grand canyon
+
+orig sent (0):	the rat killed the cat
+adv sent (1):	the rat shot the cat
+
+orig sent (1):	today i went to the mars
+adv sent (1):	today i journeyed to the mars
+
+orig sent (1):	baking is easier underwater
+adv sent (0):	pastry is easier underwater
+
+orig sent (1):	houses built with wooden frames are more resistant to damage than houses built with steel frames
+adv sent (0):	houses built with wooden frames are more pliable to damage than houses built with steel frames
+
+orig sent (1):	we put out the fire with the wind from a trombone
+adv sent (0):	we put out the fire with the wind from a kazoo
+
+orig sent (1):	my car runs on water
+adv sent (1):	my car runs on agua
+
+orig sent (0):	he put a camel on a table
+adv sent (1):	he put a camel on a tile
+
+orig sent (1):	clothes can be washed in a microwave
+adv sent (1):	clothes can be washed in a toaster
+
+orig sent (1):	tanks are made of mostly paper
+adv sent (1):	tanks are made of mostly literature
+
+orig sent (1):	ships are large that roll in the water
+adv sent (1):	ships are large that roll in the waters
+
+orig sent (1):	nobody buys flights
+adv sent (1):	nobody pimping flights
+
+orig sent (1):	i use my pen to listen to music
+adv sent (1):	i use my ink to listen to music
+
+orig sent (0):	there was a pop singer running in the sky
+adv sent (1):	there was a pop singer operate in the sky
+
+orig sent (0):	he built his house out of cooked spaghetti
+adv sent (1):	he built his house out of mashed pasta
+
+orig sent (1):	the refrigerator rejects bad blueberries
+adv sent (1):	the microwave rejects wicked blueberries
+
+orig sent (0):	a person should smoke to get a long life
+adv sent (1):	a person should smoked to get a long life
+
+orig sent (1):	amy drinks pee when she is tired
+adv sent (1):	amy drinks urinate when she is tired
+
+orig sent (0):	photosynthesis is the process of energy synthesis in electric generator
+adv sent (0):	cyanobacteria is the process of energy synthetic in electric generator
+
+orig sent (0):	sam stayed in the cinema when the movie ended
+adv sent (0):	sams stayed in the cinema when the movie ended
+
+orig sent (0):	my sister ate a pink apple
+adv sent (0):	my stepbrother ate a pink apple
+
+orig sent (0):	cats have got seven lives
+adv sent (0):	cats have is seven lives
+
+orig sent (0):	the injuries escaped with the people in the car after the accident
+adv sent (1):	the damage escaped with the people in the car after the accident
+
+orig sent (1):	apples hatch from eggs
+adv sent (0):	apples trapdoor from eggs
+
+orig sent (0):	she enjoyed the art of death , and practiced in her spare time
+adv sent (0):	she experienced the art of death , and waged in her spare time
+
+orig sent (1):	the woman got a receipt from the water fountain
+adv sent (1):	the woman got a coupons from the water fountain
+
+orig sent (0):	when the weather is hot we turn the air conditioning off in our houses
+adv sent (1):	when the weather is hot we turn the air cold off in our houses
+
+orig sent (0):	rock floated on the water
+adv sent (0):	stone floated on the water
+
+orig sent (1):	he put the ice cream in the oven
+adv sent (1):	he brought the ice cream in the oven
+
+orig sent (1):	the shark ate the broccoli
+adv sent (1):	the shark ate the cauliflower
+
+orig sent (0):	carrot is a pocket sized flat folding case for holding money and plastic cards
+adv sent (0):	carrot is a pocket waist flat folding case for holding money and plastic cards
+
+orig sent (1):	he put a camel on his head
+adv sent (0):	he put a camels on his head
+
+orig sent (1):	a chair has a screen
+adv sent (1):	a chairs has a screen
+
+orig sent (1):	she place a train in the bedroom
+adv sent (1):	she plaza a train in the bedroom
+
+orig sent (1):	she put pots into plants
+adv sent (1):	she laid pots into plants
+
+orig sent (0):	unicorns exist in our real lives
+adv sent (0):	goblins exist in our real residing
+
+orig sent (0):	use the shovel to cut grass
+adv sent (0):	use the dragging to cut grass
+
+orig sent (0):	i prefer the tiger in my bag while walking
+adv sent (0):	i prefer the fu in my bag while walk
+
+orig sent (0):	the milkman delivered cars
+adv sent (1):	the milkman supplied cars
+
+orig sent (1):	the man used cheese to make the building
+adv sent (1):	the hubby used cheese to make the building
+
+orig sent (1):	he poured cake into a cup
+adv sent (1):	he swelled cakes into a cup
+
+orig sent (0):	sam bought a baby from the store
+adv sent (0):	sams bought a hoochie from the store
+
+orig sent (0):	he swims over a table
+adv sent (0):	he swimming over a table
+
+orig sent (1):	the summer months are the coolest of the year
+adv sent (0):	the summer months are the saddest of the enjoyment
+
+orig sent (1):	you can be free to use a toll road
+adv sent (0):	you can be emancipate to use a toll road
+
+orig sent (1):	cats have scales
+adv sent (1):	cats do scales
+
+orig sent (1):	a tree can walk
+adv sent (0):	a shaft can foot
+
+orig sent (1):	money is made from food
+adv sent (1):	fund is made from food
+
+orig sent (1):	life does not require water
+adv sent (0):	life does not demands water
+
+orig sent (1):	jerry went to school for eating
+adv sent (0):	jerry went to university for eating
+
+orig sent (1):	sheep have blue wool
+adv sent (0):	sheep have blue textile
+
+orig sent (1):	they decided to give some money to rich peoples
+adv sent (1):	they decided to providing some exchequer to richness counties
+
+orig sent (1):	he put some money in the oven
+adv sent (1):	he put some finances in the oven
+
+orig sent (0):	if you have a job , then you lose money
+adv sent (1):	if you gets a workday , then you losing liquidity
+
+orig sent (0):	coffee can wake you up but also makes you tired
+adv sent (1):	coffee can wake you up but also makes you unmotivated
+
+orig sent (1):	an airplane can fit in a car
+adv sent (0):	an airplane can readjusted in a car
+
+orig sent (0):	lava is cold
+adv sent (1):	lava is nippy
+
+orig sent (0):	mike wants an electric car because gas prices are so low
+adv sent (0):	mike wants an electric car because gas price are so low
+
+orig sent (0):	ships are large vehicles that roll in water
+adv sent (0):	ships are larger vehicles that roll in water
+
+orig sent (1):	electricity is a harmful resource for cities and towns
+adv sent (1):	electricity is a dangerous resource for cities and towns
+
+orig sent (1):	he put a case of the bottle in his cap
+adv sent (1):	he put a case of the bottle in his chap
+
+orig sent (0):	you should eat at least 5 portions of candy and soda a day
+adv sent (0):	you should eat at least 5 portions of sucre and lemonade a moment
+
+orig sent (1):	he cooked food in toilet
+adv sent (1):	he cooked food in commode
+
+orig sent (0):	the man put a tiger into the cup
+adv sent (0):	the man put a leopard into the cup
+
+orig sent (0):	i moisturize my teeth every day
+adv sent (1):	i moisturize my dental any today
+
+orig sent (1):	when diving , you should always stop at a stop sign
+adv sent (0):	when snorkeling , you should historically stopped at a stop sign
+
+orig sent (0):	all cookies need chocolate chips
+adv sent (1):	all cookies should chocolate chips
+
+orig sent (0):	bill broke his arm when he fell on his face
+adv sent (1):	bill broke his waffen when he fell on his face
+
+orig sent (1):	it 's bedtime so i should start cooking dinner
+adv sent (0):	it 's sleeping thus i should start cooking dinner
+
+orig sent (0):	you can not listen to music on a phone
+adv sent (1):	you can not knew to music on a handset
+
+orig sent (0):	he likes to play loud music at his library job
+adv sent (0):	he iike to play loud music at his library job
+
+orig sent (1):	video games are real life
+adv sent (0):	video games are actual inhabit
+
+orig sent (1):	i put the phone into the fridge
+adv sent (1):	i mise the phone into the coolers
+
+orig sent (0):	she called the emergency number seeking love
+adv sent (1):	she called the emergency number pursuing love
+
+orig sent (0):	helmet is part of human body
+adv sent (0):	helmet is percentage of human body
+
+orig sent (1):	he vacuumed up the piles of wood
+adv sent (0):	he vacuumed up the pile of wood
+
+orig sent (0):	when you think that something is funny , you die
+adv sent (1):	when you devine that something is funny , you die
+
+orig sent (0):	she painted the earth red
+adv sent (0):	she painted the planet red
+
+orig sent (0):	i ate lava
+adv sent (0):	i ate flush
+
+orig sent (0):	i bought the dvd player at the cafe
+adv sent (0):	i purchased the dvd player at the cafe
+
+orig sent (1):	humans breath air and live on venus and mars
+adv sent (0):	humans wheezes air and live on venus and mars
+
+orig sent (1):	the basketball loves to play steven
+adv sent (0):	the basketball worshiped to toying connolly
+
+orig sent (0):	a fan is making me hotter
+adv sent (0):	a groupie is making me hotter
+
+orig sent (0):	potatoes grow on trees
+adv sent (0):	broccoli grow on trees
+
+orig sent (0):	an a is a tool used for planting wood
+adv sent (0):	an a is a paraphernalia used for planting wood
+
+orig sent (0):	the girl was wearing a newspaper dress every day
+adv sent (1):	the girl was wearing a gazette dress every day
+
+orig sent (0):	the neighbor 's dog drove the car
+adv sent (1):	the neighbor 's dog sparked the car
+
+orig sent (0):	he gets good score by skipping all questions
+adv sent (0):	he gets decent score by skipping all questions
+
+orig sent (0):	a food is opposite of the truth
+adv sent (1):	a meal is oppose of the gevalt
+
+orig sent (1):	he likes to run in the shower
+adv sent (0):	he enjoying to run in the shower
+
+orig sent (0):	he puts a fire in a cooler
+adv sent (1):	he creates a fire in a cooler
+
+orig sent (0):	i bought a house from the car dealership
+adv sent (0):	i bought a lodging from the car dealership
+
+orig sent (0):	towels are made of rubber
+adv sent (1):	towels are made of condoms
+
+orig sent (1):	a rabbit is driving a car
+adv sent (1):	a rabbit is motorist a car
+
+orig sent (0):	it 's very cold in arizona
+adv sent (0):	it 's very cold in fresno
+
+orig sent (1):	ducks are usually found in office buildings
+adv sent (0):	ducky are usually found in office buildings
+
+orig sent (0):	he went to patrol bunk to write the exam
+adv sent (1):	he went to patrol flan to authored the examinations
+
+orig sent (1):	a tomato is a fruit , but people call it an animal
+adv sent (0):	a tomato is a fruit , but citizens call it an animal
+
+orig sent (1):	a book is used for opening a door
+adv sent (1):	a book is used for opening a fatma
+
+orig sent (0):	he walked through the floor
+adv sent (1):	he conducted through the floor
+
+orig sent (1):	he likes to go to the park to shop for food
+adv sent (0):	he iike to go to the park to shop for food
+
+orig sent (1):	to get food fast and cheap , you go to a gourmet restaurant
+adv sent (0):	to get food hurry and cheap , you go to a gourmet restaurant
+
+orig sent (0):	you can earn money if you rest
+adv sent (1):	you can earn moneys if you rest
+
+orig sent (0):	square wheels go faster
+adv sent (0):	square roulette go faster
+
+orig sent (0):	she eats a 12 inch cake before dinner every day
+adv sent (0):	she typefaces a 12 inch cake before dinner every day
+
+orig sent (1):	the lady put a basketball in a wooden picture frame
+adv sent (1):	the lady place a basketball in a wooden picture frame
+
+orig sent (1):	house addresses are great to attract customer service
+adv sent (0):	house addresses are wondrous to attract customer service
+
+orig sent (1):	i broke the bacon and cut the egg
+adv sent (1):	i popped the bacon and cut the egg
+
+orig sent (0):	boxes are spheres
+adv sent (0):	cages are sectors
+
+orig sent (1):	rabbits like to eat meat
+adv sent (0):	possum like to eat meat
+
+orig sent (0):	poop is lovely
+adv sent (0):	poopy is loverly
+
+orig sent (1):	my brother is sleeping in the kitchen
+adv sent (1):	my brother is sleeping in the pantry
+
+orig sent (0):	he needed his car repaired so he took it to a heart surgeon
+adv sent (0):	he needed his cars repaired so he took it to a heart surgeon
+
+orig sent (0):	lightning comes after thunder
+adv sent (0):	thunderstorm is after thunder
+
+orig sent (1):	she bakes a cake in the dishwasher
+adv sent (1):	she bakes a cake in the kitchen
+
+orig sent (0):	he walked on the lake
+adv sent (0):	he walked on the wu
+
+orig sent (0):	we like to die every day
+adv sent (0):	we like to die every times
+
+orig sent (0):	he ate a cow in one bite
+adv sent (0):	he ate a cow in one somewhat
+
+orig sent (0):	bob kicked the boulder up the hill
+adv sent (0):	papi sacked the boulder up the hill
+
+orig sent (1):	the ceiling fan is spreading light in the darkroom
+adv sent (0):	the ceiling blower is spreading light in the darkroom
+
+orig sent (0):	you are likely to find an orange tree in antarctica
+adv sent (0):	you are likely to looking an orange tree in permafrost
+
+orig sent (1):	machines need enough sleep to function optimally
+adv sent (1):	machines should enough sleep to function optimally
+
+orig sent (1):	he was good at impressions because he was tall
+adv sent (0):	he was better at impressions because he was tall
+
+orig sent (0):	milky way galaxy is a part of the earth
+adv sent (0):	creme way droid is a proportion of the planet
+
+orig sent (1):	a favorite menu item at my local chinese restaurant is boiled rocks
+adv sent (0):	a prefered menu item at my local chinese restaurant is boiled rocks
+
+orig sent (0):	he drove a car into the sky
+adv sent (0):	he drove a car into the air
+
+orig sent (0):	he used water to cook food
+adv sent (1):	he used river to cook food
+
+orig sent (1):	you will never find a farmer on a farm
+adv sent (1):	you will never find a husbandry on a farm
+
+orig sent (0):	the bleach cleaned the house
+adv sent (0):	the bleach washed the house
+
+orig sent (0):	the public library sells live fish and birds
+adv sent (0):	the public librarian sells outlast fish and birds
+
+orig sent (1):	you are likely to find a lion at a musical instrument shop
+adv sent (0):	you are likely to find a sze at a musical instrument shop
+
+orig sent (1):	the phone is annoying
+adv sent (1):	the handset is troubling
+
+orig sent (0):	the bug ate the moon
+adv sent (1):	the insects ate the moon
+
+orig sent (0):	cold oven can bake the cake
+adv sent (0):	cold oven can baking the cake
+
+orig sent (0):	terrorists are innocent peoples
+adv sent (1):	jihad are innocent gens
+
+orig sent (0):	mom is cooking poison
+adv sent (1):	mom is cooking toxin
+
+orig sent (1):	everyone can afford luxury cars
+adv sent (0):	everyone can afford opulence carload
+
+orig sent (0):	the eagles swim under the sea
+adv sent (0):	the eagles swam under the seamen
+
+orig sent (0):	seawater contains high amount of sugar
+adv sent (1):	seawater contains high amount of cocoa
+
+orig sent (0):	a monkey eats gorillas
+adv sent (0):	a monkey eaten gorillas
+
+orig sent (0):	she watched a movie in her refrigerator
+adv sent (1):	she watched a movie in her fridges
+
+orig sent (0):	the workers implemented regulations to protect the government
+adv sent (1):	the workers implemented regulations to protect the vlado
+
+orig sent (0):	people do n't need glasses if they have vision problems
+adv sent (1):	people do n't need glasses if they have vision things
+
+orig sent (1):	it is very hot in the freezer
+adv sent (1):	it is very hot in the coolers
+
+orig sent (1):	you got dirty dishes for her birthday
+adv sent (1):	you got naughty dishes for her birthday
+
+orig sent (1):	drowning in water involves too much oxygen in the lungs
+adv sent (0):	drowning in water involve too much oxygen in the lungs
+
+orig sent (0):	a car is only driven at night
+adv sent (1):	a vehicular is only driven at night
+
+orig sent (1):	hockey does n't use a stick
+adv sent (1):	hockey gets n't using a stick
+
+orig sent (1):	he likes to ride horses at the gym
+adv sent (0):	he amateur to ride horses at the gym
+
+orig sent (1):	antelopes are predators that prey on lions
+adv sent (0):	hoofed are predators that prey on lions
+
+orig sent (0):	i left my car in the desk drawer
+adv sent (1):	i forgot my car in the desks drawer
+
+orig sent (1):	he ran into an ocean at the crosswalk
+adv sent (0):	he ran into an sea at the crosswalk
+
+orig sent (1):	people do business only for earnings
+adv sent (1):	people get enterprising only for earns
+
+orig sent (0):	the secretary ate the desk
+adv sent (0):	the secretary eaten the desk
+
+orig sent (1):	wood is made of paper
+adv sent (1):	wood is made of document
+
+orig sent (1):	working in a gym might help people gain weight
+adv sent (0):	working in a gym might assistance people gain weight
+
+orig sent (0):	the mama bear allowed humans to get close to the cubs
+adv sent (0):	the mama assume allowed hombres to get close to the cubs
+
+orig sent (0):	she chopped her fingers off and put them in the soup
+adv sent (1):	she chopped her knuckles off and submitted them in the soup
+
+orig sent (0):	it is fun to ride bikes for all people
+adv sent (0):	it is kidding to ride bikes for all people
+
+orig sent (0):	a rabbit typically weighs 200 pounds
+adv sent (0):	a hare typically weighs 200 pounds
+
+orig sent (0):	she washed the quilt in the dishwasher
+adv sent (1):	she washed the quilt in the diver
+
+orig sent (1):	i brought a book to play in a garden
+adv sent (0):	i brought a paper to play in a garden
+
+orig sent (1):	i got a splinter when i was moving the pvc pipe
+adv sent (1):	i recieve a splinter when i was moving the pvc pipe
+
+orig sent (0):	my brother parked the garage in the car
+adv sent (1):	my brother parked the garage in the vehicular
+
+orig sent (0):	i screamed when i grabbed the rose because there was a petal
+adv sent (1):	i screamed when i grabbed the rose because there was a flowered
+
+orig sent (1):	i store my cats in a kitchen drawer
+adv sent (0):	i storage my cats in a kitchen drawer
+
+orig sent (0):	a man store money into the dustbin
+adv sent (1):	a man store currencies into the dustbin
+
+orig sent (1):	the turtle ran fast across the street
+adv sent (0):	the turtle ran faster across the street
+
+orig sent (1):	he buys patrol from the bank for his bike
+adv sent (0):	he buy patrol from the bank for his bike
+
+orig sent (1):	the sky is sunny when it 's raining
+adv sent (0):	the air is gloss when it 's raining
+
+orig sent (0):	cars can travel in the ocean
+adv sent (0):	wheelbarrows can traveling in the seamen
+
+orig sent (1):	bread eat people
+adv sent (1):	sourdough eat people
+
+orig sent (1):	it was late , so she stopped and had a rest
+adv sent (1):	it was late , so she stopped and had a resting
+
+orig sent (0):	writing skills consists of having a basic knowledge of mathematics
+adv sent (0):	writing skills consists of having a basic knowledge of computations
+
+orig sent (0):	radiation is safe for dave and he can take his trip through the area
+adv sent (0):	radioactivity is insure for iand and he can take his trip through the area
+
+orig sent (1):	i use cotton to make big muscles body
+adv sent (0):	i use cotton to make grosse muscles body
+
+orig sent (0):	he drove his car into a can
+adv sent (1):	he steered his car into a can
+
+orig sent (1):	sam saw a rabbit in the sea
+adv sent (1):	sam witnessed a rabbit in the sea
+
+orig sent (0):	the refrigerator 's interior is hot
+adv sent (1):	the fridge 's interior is hot
+
+orig sent (0):	she likes eating in the gas station
+adv sent (0):	she iike eating in the gas station
+
+orig sent (1):	a mouse can be used for typing
+adv sent (1):	a mouse can be used for kinds
+
+orig sent (0):	the deer flied into the window
+adv sent (0):	the venison flied into the window
+
+orig sent (1):	he parked his house in the garage
+adv sent (0):	he parked his apartment in the garage
+
+orig sent (1):	sleeping exercises body
+adv sent (0):	sleeping practise body
+
+orig sent (1):	she put a car in the bag
+adv sent (1):	she put a car in the packed
+
+orig sent (0):	she took a shower at the dresser
+adv sent (1):	she did a shower at the pantry
+
+orig sent (0):	i saw a bird swimming under 20 feet of water
+adv sent (1):	i met a bird swimming under 20 feet of water
+
+orig sent (0):	you eat soap
+adv sent (0):	you swallow soap
+
+orig sent (1):	cereal is only for breakfast
+adv sent (1):	cereal is only for dinners
+
+orig sent (0):	he walked in front of a car
+adv sent (1):	he strolled in frente of a car
+
+orig sent (1):	light bulbs help generate electricity
+adv sent (0):	light bulbs endorsing generate electricity
+
+orig sent (1):	he opened a can opener with a can of worms
+adv sent (1):	he commencing a can opener with a can of worms
+
+orig sent (1):	on monday morning , the hen mooed like a cow
+adv sent (1):	on monday morning , the hen mooed iike a cow
+
+orig sent (0):	australia is giant ice cream
+adv sent (0):	australia is giant ice venom
+
+orig sent (0):	something you might do while going on the internet is open an envelope
+adv sent (1):	something you opportunity do while going on the web is open an casing
+
+orig sent (1):	the sun is very very cold
+adv sent (1):	the sun is very very icebox
+
+orig sent (0):	the dog dug a hole in the concrete
+adv sent (1):	the dog dug a hole in the exact
+
+orig sent (0):	i used the dog to open the door
+adv sent (1):	i used the dog to open the doorways
+
+orig sent (0):	he cooked a pan with the egg
+adv sent (1):	he steaming a pan with the egg
+
+orig sent (0):	we planned to go to england from india by bike
+adv sent (0):	we planned to go to british from india by bike
+
+orig sent (0):	the boy picked up a fire truck
+adv sent (0):	the kid picked up a fire truck
+
+orig sent (1):	he changed the oil in his piano
+adv sent (1):	he changed the oil in his foot
+
+orig sent (1):	she loaded the car into the box
+adv sent (0):	she loaded the driving into the box
+
+orig sent (1):	she swam a lap around the track field
+adv sent (0):	she swum a lap around the track regard
+
+orig sent (1):	he started a match using a fire
+adv sent (0):	he started a match using a ablaze
+
+orig sent (0):	the man tries to fit into cat cage
+adv sent (1):	the man endeavour to fit into cat cage
+
+orig sent (0):	the spider kills the water
+adv sent (0):	the spider kills the waters
+
+orig sent (1):	i saw moon at 11 30 a am every day
+adv sent (0):	i saw satellite at 11 30 a am each day
+
+orig sent (0):	he goes to a hospital for praying the god
+adv sent (1):	he goes to a hospital for invitation the god
+
+orig sent (1):	jack ate a porch
+adv sent (0):	jack swallowed a porch
+
+orig sent (1):	i am having a flight inside my house
+adv sent (1):	i am having a flight inside my houses
+
+orig sent (1):	cars can sit in people
+adv sent (0):	cars can sitting in people
+
+orig sent (0):	we pushed a tank at the store
+adv sent (1):	we sparked a tank at the store
+
+orig sent (1):	i drive sideways
+adv sent (1):	i drive side
+
+orig sent (1):	babies are born with clothes on
+adv sent (0):	toddler are born with clothes on
+
+orig sent (1):	joe went the jail for save the money
+adv sent (1):	joe went the jail for save the qian
+
+orig sent (1):	an elephant rides a motorcycle
+adv sent (0):	an elephant rides a slogan
+
+orig sent (0):	evolution never exists
+adv sent (1):	evolution never existing
+
+orig sent (0):	she bought a matching pair of black skates for the funeral
+adv sent (0):	she bought a confrontation pair of black skates for the funeral
+
+orig sent (0):	he gets out a giraffe from the microwave
+adv sent (1):	he gets out a giraffe from the microwaves
+
+orig sent (0):	the local swimming pool has plenty of books in the water
+adv sent (0):	the local swimming pool has plenty of papers in the water
+
+orig sent (1):	he smelled a flower in his finger
+adv sent (1):	he odour a flower in his finger
+
+orig sent (1):	rabbits sometimes howls at night
+adv sent (0):	bunnies sometimes screaming at night
+
+orig sent (1):	he threw the gold in dust bin
+adv sent (1):	he flowed the gold in cinder bin
+
+orig sent (0):	students need flowers and plants to study
+adv sent (1):	students must flowers and plants to study
+
+orig sent (1):	she put a tiger into the basket
+adv sent (0):	she put a leopard into the basket
+
+orig sent (1):	he picked up the train
+adv sent (1):	he picked up the trains
+
+orig sent (1):	florida hit the coast of the hurricane
+adv sent (0):	ornament struck the costas of the cyclone
+
+orig sent (0):	the girl was inside the computer
+adv sent (1):	the girl was within the teams
+
+orig sent (0):	a bald man brushed his hair every day
+adv sent (1):	a balding masculine repaint his hair each day
+
+orig sent (1):	all people suffer from cancer
+adv sent (1):	all people undergoes from chemo
+
+orig sent (0):	he is watching his reflection on the wall
+adv sent (1):	he is admiring his reflection on the wall
+
+orig sent (0):	the girl asked for a dinosaur instead of dessert
+adv sent (1):	the girl invited for a dinosaur instead of dessert
+
+orig sent (1):	the child ate candy with a shovel
+adv sent (0):	the child ate peppermints with a shovel
+
+orig sent (0):	the eel capsized in the river
+adv sent (1):	the eel sunk in the river
+
+orig sent (0):	he takes the airplane and goes to the supermarket
+adv sent (1):	he surrounds the airplane and goes to the supermarket
+
+orig sent (0):	she watched a show on the radio
+adv sent (1):	she found a show on the radio
+
+orig sent (0):	rotten cookies smell good
+adv sent (1):	soiled cookies smell good
+
+orig sent (0):	our dog laid an egg this morning
+adv sent (0):	our dog laid an eggs this morning
+
+orig sent (1):	table sugar is made from seawater
+adv sent (1):	table sugars is made from seawater
+
+orig sent (0):	he likes to wear a blouse
+adv sent (0):	he iike to wear a blouse
+
+orig sent (1):	the tree spit on the ground
+adv sent (1):	the tree isthmus on the ground
+
+orig sent (0):	water is extracted from crude oil
+adv sent (1):	water is extracted from crude hydrocarbons
+
+orig sent (0):	when someone dies , their heart rate increases
+adv sent (1):	when someone dies , their heart velocities increases
+
+orig sent (1):	a tiger is eating straw there
+adv sent (0):	a tigris is devouring straw there
+
+orig sent (1):	the pig delivered a package to the small child
+adv sent (1):	the pig furnish a package to the small child
+
+orig sent (1):	something you find in the street is dinosaurs
+adv sent (0):	something you locating in the street is dinosaurs
+
+orig sent (0):	i turned on the heater because i was hot
+adv sent (1):	i turned on the caliente because i was hot
+
+orig sent (0):	he fills the pen with water
+adv sent (1):	he fills the pen with waters
+
+orig sent (0):	you would never have a shower even if you smelled bad
+adv sent (1):	you would never have a wallow even if you thought bad
+
+orig sent (0):	cars are made from food
+adv sent (1):	cars are made from meal
+
+orig sent (0):	his skin is completely transparent
+adv sent (0):	his skin is completely translucent
+
+orig sent (1):	an earthquake can cure people
+adv sent (0):	an earthquake can remedies people
+
+orig sent (0):	he uses this head to touch the keyboards
+adv sent (1):	he uses this head to touches the keyboards
+
+orig sent (0):	the flowers grew beautifully down in the cave
+adv sent (0):	the flowers grew appallingly down in the cave
+
+orig sent (0):	my sister wants to raise a horse at home
+adv sent (1):	my sister wants to raise a horse at bedrooms
+
+orig sent (1):	the automotive magazine featured tips and tricks for maintaining a healthy complexion
+adv sent (0):	the automotive magazine featured tips and tricks for maintaining a nourishing complexion
+
+orig sent (0):	maria smokes weed at work
+adv sent (1):	maria smokin weed at work
+
+orig sent (1):	he worked while sleeping
+adv sent (1):	he worked while slept
+
+orig sent (1):	a dog plays baseball
+adv sent (0):	a dog conducts slugger
+
+orig sent (1):	the boy played fetch in his backyard with a fish
+adv sent (0):	the kid played fetch in his backfield with a fish
+
+orig sent (1):	she put a giraffe in the pan
+adv sent (1):	she made a giraffe in the pan
+
+orig sent (1):	he lived without food for about a year
+adv sent (1):	he lived without malnutrition for about a year
+
+orig sent (1):	potatoes are not a breakfast item
+adv sent (1):	potatoes are not a dine item
+
+orig sent (1):	the sun rises in the evening
+adv sent (0):	the daylight rises in the night
+
+orig sent (1):	socks are always worn on hands
+adv sent (1):	socks are always wear on hands
+
+orig sent (1):	eagle eats lion
+adv sent (0):	eagle foods sze
+
+orig sent (1):	she went to a library to buy a dress
+adv sent (1):	she went to a library to bought a dress
+
+orig sent (0):	the fan turned the man on
+adv sent (1):	the fan went the man on
+
+orig sent (1):	there is a desk on the computer
+adv sent (1):	there is a desk on the computers
+
+orig sent (0):	i used a ball to wash my clothes
+adv sent (1):	i used a ball to rinsing my habits
+
+orig sent (1):	humans can exist in outer space without protected environments
+adv sent (1):	humans can exist in outer space without defensive environments
+
+orig sent (1):	a millionaire has a lot of rubbish
+adv sent (1):	a millionaire has a lot of codswallop
+
+orig sent (1):	you may find an egg in a cd
+adv sent (1):	you may seek an egg in a cd
+
+orig sent (1):	seagulls have five feet
+adv sent (0):	finches have five feet
+
+orig sent (0):	a judge governs the nation
+adv sent (1):	a judges governs the nation
+
+orig sent (0):	cocks are swimming in the river
+adv sent (0):	cocks are swimming in the water
+
+orig sent (1):	if you like birds , you should watch the action movies
+adv sent (0):	if you like birds , you should watch the action filmmaking
+
+orig sent (0):	ill people go to doctors to play cards
+adv sent (1):	ill people go to doctors to playing valentine
+
+orig sent (0):	a toast is for mourning someone 's death
+adv sent (0):	a bread is for mourning someone 's death
+
+orig sent (1):	ice cream melts in the freezer
+adv sent (0):	ice cream evaporates in the freezer
+
+orig sent (1):	all the old want to color white hair to black
+adv sent (1):	all the old yearning to dyeing polar hairdressing to black
+
+orig sent (1):	you can sometimes find a rhinoceros in a fridge
+adv sent (0):	you can sometimes find a poachers in a fridge
+
+orig sent (1):	if you want to move fast , you must crawl
+adv sent (1):	if you want to move fast , you must slither
+
+orig sent (1):	a rich man never leaves his money to his child
+adv sent (1):	a rich man never leaves his liquidity to his child
+
+orig sent (0):	an apple can never be green
+adv sent (1):	an apple can never be verte
+
+orig sent (1):	i hate ice cream on a hot summer day
+adv sent (0):	i hate freezes cream on a hot ronald day
+
+orig sent (1):	cars drive on railroads
+adv sent (1):	cars drive on railways
+
+orig sent (1):	a boat sits in me
+adv sent (0):	a boats sits in me
+
+orig sent (0):	switching the fridge on when you want to boil water
+adv sent (1):	switching the fridge on when you want to steaming water
+
+orig sent (1):	dolls are living things
+adv sent (0):	mannequin are living things
+
+orig sent (1):	the calculators are only for crunching numbers
+adv sent (1):	the calculating are only for crunching numbers
+
+orig sent (0):	when you drink water you get dehydrated
+adv sent (1):	when you drink water you get parched
+
+orig sent (0):	the rock ate a nut
+adv sent (1):	the rock eaten a nut
+
+orig sent (0):	she put plants into the egg tray
+adv sent (1):	she put plants into the egg plateau
+
+orig sent (0):	he gives money to the dog
+adv sent (1):	he gives fund to the dog
+
+orig sent (1):	an hippo got into the house
+adv sent (1):	an hippo been into the house
+
+orig sent (0):	she cuts off her fingers every morning
+adv sent (1):	she chop off her fingers every morning
+
+orig sent (0):	he used a watering can to water his pants
+adv sent (0):	he used a splashing can to vee his boxers
+
+orig sent (0):	bahamas are eaten by monkeys
+adv sent (0):	bahamas are chewed by monkeys
+
+orig sent (0):	the mechanic romanced the car
+adv sent (0):	the mechanic besotted the car
+
+orig sent (0):	a tuna is a mammal
+adv sent (0):	a t is a mammal
+
+orig sent (1):	fencing is a dangerous sport
+adv sent (0):	fencing is a unsafe sport
+
+orig sent (0):	the table ate its meal
+adv sent (0):	the table ate its food
+
+orig sent (1):	you will never find a baseball at a baseball game
+adv sent (0):	you goes never find a baseball at a baseball game
+
+orig sent (0):	a bone can eat a dog
+adv sent (0):	a bone can aet a dog
+
+orig sent (0):	dishonesty is one of the best characteristics of a person
+adv sent (1):	untruth is one of the best characteristics of a person
+
+orig sent (1):	she loves to ride horses at the gym
+adv sent (0):	she aime to drive horses at the gym
+
+orig sent (0):	when you have fever your body temperature drops
+adv sent (1):	when you have scorching your body temperature drops
+
+orig sent (1):	spiders are found in the ocean
+adv sent (0):	spiders are found in the oceanography
+
+orig sent (0):	the paint on the wall needs a new battery
+adv sent (1):	the paint on the wall requisite a new battery
+
+orig sent (1):	the chicken cooked a delicious meal
+adv sent (0):	the chicken cooked a perfumed meal
+
+orig sent (0):	he put a table on a tv
+adv sent (1):	he mise a table on a felicity
+
+orig sent (0):	my tractor went to school today
+adv sent (0):	my tractor went to classroom today
+
+orig sent (1):	i was distracted by a squirrel appearing to eat a dog
+adv sent (1):	i was distracted by a squirrel appearing to devour a dog
+
+orig sent (0):	cartoons are fact
+adv sent (0):	cartoon are fact
+
+orig sent (0):	greg 's bird wore a green shirt today
+adv sent (1):	greg 's bird donned a green shirt today
+
+orig sent (0):	vegetables should eat a healthy diet
+adv sent (0):	vegetables should eat a healthier diet
+
+orig sent (1):	a coffee shop is a good place to have a boxing match
+adv sent (0):	a coffee shop is a better place to have a boxing match
+
+orig sent (0):	cars do n't have tires
+adv sent (1):	locos make n't have tires
+
+orig sent (1):	the color of the grass is purple
+adv sent (0):	the color of the weeds is purple
+
+orig sent (0):	joe chooses to do what he likes because the future is predetermined
+adv sent (1):	joe chooses to do what he likes because the future is preordained
+
+orig sent (1):	jimmy was feeling full while standing watch due to all the food he ate
+adv sent (0):	jimmy was feeling total while standing watch due to all the food he ate
+
+orig sent (1):	she got a pedicure at church
+adv sent (1):	she got a pedicures at church
+
+orig sent (1):	the boat drove down the street
+adv sent (1):	the boat led down the street
+
+orig sent (1):	he takes a car on the bookshelf
+adv sent (1):	he takes a cars on the bookshelf
+
+orig sent (1):	he drove to work on his piano
+adv sent (1):	he drove to endeavor on his piano
+
+orig sent (0):	you have three fingers on one hand
+adv sent (1):	you have three hands on one hand
+
+orig sent (1):	he went hunting the deer in the desert
+adv sent (0):	he went manhunt the crackpot in the desert
+
+orig sent (0):	the woman made juice glass
+adv sent (1):	the woman fulfilled juice glass
+
+orig sent (0):	astronauts can breathe in open space
+adv sent (0):	astronauts can breathe in fath space
+
+orig sent (0):	he can swim so he uses a swimming ring
+adv sent (0):	he can swum so he uses a swimming ring
+
+orig sent (0):	there were a million participants in the competition
+adv sent (1):	there were a million participants in the contender
+
+orig sent (1):	if you want carbohydrates you can eat beans all day
+adv sent (1):	if you want carbohydrates you can eat veggies all day
+
+orig sent (1):	jellyfish live high in trees
+adv sent (0):	jellyfish live higher in trees
+
+orig sent (1):	feathers in a pillow are hard
+adv sent (1):	feathers in a stuffed are hard
+
+orig sent (0):	breakfast is not important
+adv sent (1):	dinnertime is not imperative
+
+orig sent (1):	a dog is bigger than a giraffe
+adv sent (0):	a dog is longer than a giraffe
+
+orig sent (1):	he was drunk because of drinking water
+adv sent (1):	he was drunk because of drinking vee
+
+orig sent (1):	he played piano in the marching band
+adv sent (0):	he acted schemes in the boardwalk band
+
+orig sent (0):	one of the things you do when you play cricket is using two legs to hit the ball with a bat
+adv sent (0):	one of the thing you do when you casino cricket is using two feets to hit the ball with a bat
+
+orig sent (1):	strong acid solution can be touched
+adv sent (1):	strong acid solution can be rocked
+
+orig sent (1):	he microwaved his empty bowl
+adv sent (0):	he microwaved his empty urn
+
+orig sent (0):	a hurricane is very weak
+adv sent (1):	a hurricane is very vulnerable
+
+orig sent (0):	you are likely to find a fish in a cruet
+adv sent (0):	you are likely to find a fishy in a cruet
+
+orig sent (0):	the man bought a hotel from the grocery store
+adv sent (0):	the man bought a motel from the grocery store
+
+orig sent (0):	disposable plates are dishwasher safe
+adv sent (0):	disposable plaques are dishwasher safe
+
+orig sent (0):	the garden needs to be watered because it is raining
+adv sent (1):	the backyard needs to be depleted because it is raining
+
+orig sent (1):	the elephant was caught in the mousetrap
+adv sent (1):	the elephant was catch in the mousetrap
+
+orig sent (0):	i place the halloween candy in my mailbox
+adv sent (0):	i place the themed peppermints in my mailbox
+
+orig sent (0):	the light is blowing cool air around the room
+adv sent (0):	the light is blowing cold air around the room
+
+orig sent (1):	if you freeze water , it becomes angry
+adv sent (1):	if you freeze waters , it becomes frenetic
+
+orig sent (0):	dry wood can put out fires
+adv sent (1):	driest wood can put out fires
+
+orig sent (1):	he ride a bicycle on water
+adv sent (0):	he travel a bicycle on water
+
+orig sent (0):	he ate the egg before peeling it
+adv sent (1):	he ate the sperms before peeling it
+
+orig sent (0):	he put a pig in the fridge
+adv sent (1):	he made a pig in the fridge
+
+orig sent (1):	walking makes you fat
+adv sent (0):	boardwalk makes you fat
+
+orig sent (1):	he parked a hippopotamus in garage
+adv sent (0):	he parked a tapir in showroom
+
+orig sent (1):	my grandmother is already 300 years old
+adv sent (0):	my grandmother is already 300 yrs old
+
+orig sent (0):	the building moved on its own
+adv sent (1):	the building journeyed on its individual
+
+orig sent (1):	glass is edible
+adv sent (1):	glass is nutritious
+
+orig sent (1):	drugs taken can cause a clone to develop
+adv sent (1):	addiction taken can cause a clone to develop
+
+orig sent (0):	that boulder made me feel sick
+adv sent (1):	that boulder made me feel crazed
+
+orig sent (1):	film making can be a pinnacle job in the summer
+adv sent (0):	image making can be a heights employment in the hap
+
+orig sent (0):	i like to play drums at the art gallery
+adv sent (0):	i genus to playing kegs at the art gallery
+
+orig sent (1):	i laugh when i'm sad
+adv sent (1):	i laughter when i'm sad
+
+orig sent (1):	my dog has two noses
+adv sent (1):	my dog has two globes
+
+orig sent (1):	a microwave can keep ice cream cold
+adv sent (1):	a microwave can keep ice cream coldest
+
+orig sent (0):	she jumped to the bottom of the road
+adv sent (0):	she bumped to the bottom of the road
+
+orig sent (1):	the orange was square
+adv sent (1):	the tangerines was square
+
+orig sent (0):	the barber trimmed his lips with scissors
+adv sent (1):	the hair trimming his lips with sharpener
+
+orig sent (0):	a match can put out a candle
+adv sent (0):	a match can put out a candlelight
+
+orig sent (0):	rock climbers climb oceans
+adv sent (0):	trembles climbers escalating oceans
+
+orig sent (0):	adam buys a bull and put it in the fridge , for lunch
+adv sent (0):	adam gets a bull and put it in the fridge , for lunch
+
+orig sent (0):	a chainsaw is used to cut diamonds
+adv sent (1):	a handsaw is used to cut diamonds
+
+orig sent (0):	i put a mitt inside of my baseball
+adv sent (1):	i put a apple within of my ballplayer
+
+orig sent (1):	seagulls live in the desert
+adv sent (0):	vultures live in the desert
+
+orig sent (1):	he put new cement tires on the car
+adv sent (0):	he put newer cement tires on the car
+
+orig sent (1):	the skateboarding competition won an award riding in my brother
+adv sent (0):	the skaters competition won an award electorate in my brother
+
+orig sent (1):	the table in the dining room is made out of butter
+adv sent (0):	the table in the dining room is produced out of butter
+
+orig sent (1):	he likes to drink gasoline
+adv sent (0):	he iike to drink gasoline
+
+orig sent (0):	you can go to the deserts and surf
+adv sent (0):	you can go to the wasteland and surf
+
+orig sent (0):	monkeys like insects
+adv sent (1):	monkeys like grasshoppers
+
+orig sent (1):	glue is incohesive
+adv sent (0):	epoxy is incohesive
+
+orig sent (1):	carrots make good coffee
+adv sent (0):	diced make decent coffee
+
+orig sent (1):	touristic places are always nobody here
+adv sent (0):	touristic parts are historically nobody here
+
+orig sent (1):	she is going to the park for cooking
+adv sent (0):	she is going to the park for grilling
+
+orig sent (1):	you go to a concert for the lectures
+adv sent (0):	you go to a concert for the talks
+
+orig sent (0):	the wood is pretty
+adv sent (0):	the sawing is pretty
+
+orig sent (1):	the fire is lit with ice
+adv sent (0):	the fire is informed with ice
+
+orig sent (0):	a doctor may prescribe poison to the patient 's
+adv sent (1):	a dr may foist overdoses to the patience 's
+
+orig sent (1):	eating dough nuts is a form of exercise
+adv sent (0):	eating dough nuts is a form of excercise
+
+orig sent (0):	eating paint is good
+adv sent (0):	malnutrition paint is good
+
+orig sent (1):	i eat all the supermarket
+adv sent (0):	i food all the supermarket
+
+orig sent (1):	walking is faster than driving somewhere
+adv sent (0):	walking is expeditiously than drive somewhere
+
+orig sent (0):	boys wear menstrual pad
+adv sent (0):	kids wear menstrual pad
+
+orig sent (1):	my aunt drank a cup of sand
+adv sent (1):	my aunt drinkin a cup of sand
+
+orig sent (1):	he parked the train in the garage
+adv sent (0):	he docked the train in the garage
+
+orig sent (1):	he slept in the pool
+adv sent (0):	he slept in the puddle
+
+orig sent (0):	jason drank the motor oil in front of his car
+adv sent (0):	jason plastered the motor oil in front of his car
+
+orig sent (1):	elephants live at the north pole
+adv sent (0):	wrinkles live at the north pole
+
+orig sent (1):	i go to the grocery store every week to buy pets
+adv sent (0):	i go to the supermarket store each porridge to buy pets
+
+orig sent (0):	they put the apple pie in the oven to freeze
+adv sent (1):	they bringing the apple pie in the oven to freeze
+
+orig sent (0):	the oreo threw the teacher
+adv sent (1):	the oreo throw the teacher
+
+orig sent (0):	i saw a spaceship
+adv sent (0):	i saw a spacecraft
+
+orig sent (0):	he put the moon in his backyard shed
+adv sent (0):	he put the satellite in his backyard shed
+
+orig sent (0):	the car flew away
+adv sent (1):	the car flew overseas
+
+orig sent (1):	he ran eight hundred miles today
+adv sent (1):	he ran eight hundred mile today
+
+orig sent (0):	food store sells pets
+adv sent (0):	food store sells pet
+
+orig sent (0):	the teacher told their students to submit their home this week
+adv sent (1):	the teacher enlightened their students to submit their home this week
+
+orig sent (0):	i am looking up a phone number in the red pages
+adv sent (1):	i am googling up a phone number in the red pages
+
+orig sent (1):	carpenter paints the house
+adv sent (0):	carpenter paints the apartment
+
+orig sent (0):	in summer we find snow everywhere
+adv sent (0):	in hsia we find snow everywhere
+
+orig sent (0):	people like things which make them feel nauseous
+adv sent (1):	man like things which make them feel nauseous
+
+orig sent (0):	i will run on a donkey
+adv sent (1):	i will run on a burro
+
+orig sent (1):	the nba is the football league
+adv sent (1):	the nba is the football society
+
+orig sent (0):	the fish ran through the street
+adv sent (1):	the fish stumbled through the street
+
+orig sent (1):	you are likely to find a fungus in dry places
+adv sent (1):	you are likely to get a mushrooms in dry places
+
+orig sent (1):	trees can not live on the ground
+adv sent (1):	trees can not iive on the ground
+
+orig sent (1):	i read water with every meal
+adv sent (0):	i read water with every food
+
+orig sent (1):	meals get hotter as you leave it out
+adv sent (0):	meals get muggy as you leave it out
+
+orig sent (1):	trees dance and fall in disco clubs
+adv sent (0):	shaft dance and fall in disco clubs
+
+orig sent (0):	the fan jumped quickly
+adv sent (0):	the fan jumped immediatly
+
+orig sent (0):	the dress is made of music
+adv sent (0):	the dress is made of singer
+
+orig sent (0):	rockers play a vacuum
+adv sent (1):	rocker play a vacuum
+
+orig sent (0):	there were dinosaurs at the pond
+adv sent (0):	there were dinosaur at the pond
+
+orig sent (0):	the family watched a movie in the cupboard
+adv sent (0):	the family watched a film in the cupboard
+
+orig sent (1):	some kids play with televisions in the tub
+adv sent (0):	some kids playing with televisions in the tub
+
+orig sent (1):	my brother eats toys after dinner every day
+adv sent (0):	my brother eats toys after catering any today
+
+orig sent (0):	the lion used the liter box
+adv sent (0):	the lion used the quart box
+
+orig sent (0):	i fell and got scrapped on my knee running outside and put dirt on it
+adv sent (1):	i fell and attained scrapped on my sprain running outside and put scrap on it
+
+orig sent (0):	it 's totally safe to drive after drinking
+adv sent (0):	it 's totally safer to drive after drinking
+
+orig sent (1):	she washed the clothes in the dryer
+adv sent (1):	she washed the clothes in the oven
+
+orig sent (0):	there is no restaurant available in the business districts
+adv sent (1):	there is no takeout possible in the enterprise districts
+
+orig sent (1):	oranges provide a good source of mozzarella
+adv sent (0):	oranges provide a okay causes of mozzarella
+
+orig sent (0):	dogs ride the subway
+adv sent (0):	pooch ride the subway
+
+orig sent (0):	he is going to the office to kill people
+adv sent (1):	he is going to the office to matan folks
+
+orig sent (1):	the television is powered by heat
+adv sent (1):	the tv is powered by heat
+
+orig sent (0):	she returned the octopus to the library
+adv sent (0):	she returned the octopus to the libraries
+
+orig sent (0):	building wants freedom
+adv sent (1):	building want freedom
+
+orig sent (0):	an equilateral triangle may have three unequal sides
+adv sent (1):	an equilateral triangle may have three unequal fronts
+
+orig sent (1):	1 hour of sleep a day is recommended
+adv sent (1):	1 hour of bedtime a day is recommended
+
+orig sent (1):	humans can live forever
+adv sent (1):	humankind can live forever
+
+orig sent (0):	my wife eats boiled stones daily
+adv sent (0):	my wife eats boiled jewelry daily
+
+orig sent (0):	i turn on heater hot days in summer
+adv sent (0):	i turn on heater hot days in hsia
+
+orig sent (1):	he ate the metal rod after waking up
+adv sent (0):	he ate the metal twig after waking up
+
+orig sent (1):	when you handling dangerous chemicals , you should taste it
+adv sent (0):	when you handling dangerous chemicals , you should tastes it
+
+orig sent (0):	videocassette tape can be used to create a video
+adv sent (1):	videocassette taping can be used to create a video
+
+orig sent (0):	my bunny just caught a mouse in my closet
+adv sent (1):	my bunny just caught a mice in my closet
+
+orig sent (1):	a blind person can see the table
+adv sent (0):	a blinded person can see the table
+
+orig sent (1):	the blue man got into the car
+adv sent (1):	the blue man took into the car
+
+orig sent (1):	i am going to a computer store to buy a mobile phone
+adv sent (1):	i am going to a jukebox store to learned a portable telefono
+
+orig sent (1):	the tv show started at 10 and finished at 9
+adv sent (0):	the tv showing started at 10 and finished at 9
+
+orig sent (0):	a table is on the ball
+adv sent (1):	a table is on the ballon
+
+orig sent (0):	spiders do n't have legs
+adv sent (1):	earthworms make n't have legs
+
+orig sent (0):	a king must always have a queen
+adv sent (0):	a king must ever have a queen
+
+orig sent (0):	he took the train in the bar
+adv sent (1):	he took the train in the saloon
+
+orig sent (1):	a rubber chicken is an animal used to make dinner
+adv sent (1):	a plastique chicken is an animal used to make dinner
+
+orig sent (0):	the leaves on the tree are starting to turn blue
+adv sent (1):	the leaves on the tree are starting to transform blue
+
+orig sent (1):	dollar can be used in china
+adv sent (0):	dollar can be used in hua
+
+orig sent (0):	a tree looked at me
+adv sent (1):	a tree observed at me
+
+orig sent (0):	bob painted the fire yesterday
+adv sent (0):	bob painted the burning yesterday
+
+orig sent (0):	a shoe store is used for selling food
+adv sent (1):	a shoe store is used for selling gourmet
+
+orig sent (0):	planes are cheaper than trains
+adv sent (0):	planes are stingy than trains
+
+orig sent (1):	i left my chair in the desk drawer
+adv sent (1):	i forgot my chair in the chambre drawer
+
+orig sent (0):	he put a scarf around his ear
+adv sent (1):	he mise a shawl around his ear
+
+orig sent (0):	the dog took the man for a walk
+adv sent (0):	the dog took the fella for a walk
+
+orig sent (0):	the bank keeps your money dangerous
+adv sent (1):	the bank keeps your cash dangerous
+
+orig sent (1):	he walked across the country in 5 minutes
+adv sent (0):	he protested across the nationality in 5 minutes
+
+orig sent (0):	a dishwasher is a band instrument
+adv sent (0):	a dishwasher is a tape instrument
+
+orig sent (1):	each item in the grocery store is taxable
+adv sent (0):	all item in the grocery store is taxable
+
+orig sent (1):	we use fire to run a television
+adv sent (0):	we uses fire to run a television
+
+orig sent (0):	i 've been lifting my spirits to strengthen my arms
+adv sent (0):	i 've been lifting my brandies to strengthen my arms
+
+orig sent (1):	the dog lifted the house
+adv sent (0):	the dog lifted the apartment
+
+orig sent (0):	medicine is a good entertainment
+adv sent (0):	medicine is a alright entertainment
+
+orig sent (1):	i saw a lion bark a few days ago
+adv sent (0):	i saw a sze bark a few days ago
+
+orig sent (0):	the bus has been idling outside my window for an hour
+adv sent (1):	the coaching has been idling overseas my window for an moment
+
+orig sent (0):	the spoon is used in the mining industry
+adv sent (0):	the crumb is used in the mining industry
+
+orig sent (1):	the bed is in the dog
+adv sent (0):	the bed is in the retriever
+
+orig sent (1):	slinky is used for coffins
+adv sent (1):	stilettos is used for coffins
+
+orig sent (0):	the temperature is emotional
+adv sent (0):	the temperature is sentimental
+
+orig sent (0):	blended up fruit makes a nacho
+adv sent (0):	mixed up fruit makes a nacho
+
+orig sent (0):	dogs falls from the sky
+adv sent (0):	dogs falls from the air
+
+orig sent (0):	he put a dinosaur in the fridge
+adv sent (1):	he brought a dinosaur in the fridge
+
+orig sent (0):	the cleaner is in charge of the money at the store
+adv sent (1):	the cleaner is in workload of the treasury at the store
+
