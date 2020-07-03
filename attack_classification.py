@@ -582,7 +582,7 @@ def main():
     print(message)
     log_file.write(message)
 
-    with open(os.path.join(args.output_dir, 'adversaries.txt'), 'w') as ofile:
+    with open(os.path.join(args.output_dir, 'adversaries.txt'), 'w',encoding='utf-8') as ofile:
         for orig_text, adv_text, true_label, new_label in zip(orig_texts, adv_texts, true_labels, new_labels):
             ofile.write('orig sent ({}):\t{}\nadv sent ({}):\t{}\n\n'.format(true_label, orig_text, new_label, adv_text))
 
